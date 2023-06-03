@@ -13,7 +13,7 @@ const sidebar = generateSidebar( {
   underscoreToSpace: true,
   collapsed: true,
   collapseDepth: 2,
-  // sortByFileName: ['first.md', 'second', 'third.md'],
+  sortByFileName: ['referensi'],
   // excludeFiles: ['first.md', 'secret.md'],
   excludeFolders: ['examples'],
   // includeDotFiles: false,
@@ -66,7 +66,7 @@ export default defineConfig({
     sidebar,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/mlengse/kaling' }
     ]
   }
 })

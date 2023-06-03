@@ -95,135 +95,145 @@ export default class VitePressSidebar {
   ): SidebarListItem {
     let directoryFiles: string[] = readdirSync(currentDir);
 
+    const directoryMapper = (x: string) => {
+      const childItemPath = resolve(currentDir, x);
+      const childItemPathDisplay = `${displayDir}/${x}`
+        .replace(options.root ?? '', '')
+        .replace(/\/{2}/, '/')
+        .replace(/\.md$/, '');
+
+      if (/\.vitepress/.test(childItemPath)) {
+        return null;
+      }
+      if (displayDir === options.root && x === 'index.md' && !options.includeRootIndexFile) {
+        return null;
+      }
+      if (!options.includeDotFiles && /^\./.test(x)) {
+        return null;
+      }
+
+      if (statSync(childItemPath).isDirectory()) {
+        if (options.excludeFolders?.includes(x)) {
+          return null;
+        }
+
+        let directorySidebarItems =
+          VitePressSidebar.generateSidebarItem(
+            depth + 1,
+            childItemPath,
+            childItemPathDisplay,
+            x,
+            options
+          ) || [];
+
+        let newDirectoryText = VitePressSidebar.getTitleFromMd(x, childItemPath, options, true);
+        let withDirectoryLink;
+
+        if (options.convertSameNameSubFileToGroupIndexPage) {
+          const findItem = directorySidebarItems.find((y: SidebarListItem) => y.text === x);
+
+          if (findItem) {
+            newDirectoryText = VitePressSidebar.getTitleFromMd(
+              x,
+              resolve(childItemPath, `${findItem.text}.md`),
+              options,
+              false
+            );
+
+            if (options.folderLinkNotIncludesFileName) {
+              withDirectoryLink = childItemPathDisplay;
+            } else {
+              withDirectoryLink = findItem.link;
+            }
+
+            directorySidebarItems = directorySidebarItems.filter(
+              (y: SidebarListItem) => y.text !== x
+            );
+          }
+        }
+
+        if (options.convertIndexSubFileToGroupIndexPage) {
+          const findItem = directorySidebarItems.find((y: SidebarListItem) => y.link.includes('index'));
+
+          if (findItem) {
+            newDirectoryText = VitePressSidebar.getTitleFromMd(
+              findItem.text,
+              resolve(childItemPath, `index.md`),
+              options,
+              false
+            );
+
+            if (options.folderLinkNotIncludesFileName) {
+              withDirectoryLink = childItemPathDisplay;
+            } else {
+              withDirectoryLink = findItem.link;
+            }
+
+            directorySidebarItems = directorySidebarItems.filter(
+              (y: SidebarListItem) => y.text !== findItem.text
+            );
+          }
+        }
+
+        if (options.includeEmptyFolder || directorySidebarItems.length > 0) {
+          return {
+            text: newDirectoryText,
+            ...(withDirectoryLink ? { link: withDirectoryLink } : {}),
+            items: directorySidebarItems,
+            ...(options.collapsed === null || options.collapsed === undefined
+              ? {}
+              : { collapsed: depth >= options.collapseDepth! && options.collapsed })
+          };
+        }
+
+        return null;
+      }
+      if (childItemPath.endsWith('.md')) {
+        if (options.excludeFiles?.includes(x)) {
+          return null;
+        }
+
+        let childItemText;
+        const childItemTextWithoutExt = x.replace(/\.md$/, '');
+
+        if (
+          options.convertSameNameSubFileToGroupIndexPage &&
+          parentName === childItemTextWithoutExt
+        ) {
+          childItemText = childItemTextWithoutExt;
+        } else {
+          childItemText = VitePressSidebar.getTitleFromMd(x, childItemPath, options);
+        }
+
+        return {
+          text: childItemText,
+          link: childItemPathDisplay
+        };
+      }
+      return null;
+    }
+
+
     if (options.sortByFileName!.length > 0) {
+
       const needSortItem = directoryFiles.filter((x) => options.sortByFileName?.indexOf(x) !== -1);
-      const remainItem = directoryFiles.filter((x) => options.sortByFileName?.indexOf(x) === -1);
+      const remainItem = directoryFiles.filter((x) => options.sortByFileName?.indexOf(x) === -1)
+    
       needSortItem.sort(
         (a, b) => options.sortByFileName!.indexOf(a) - options.sortByFileName!.indexOf(b)
       );
 
-      directoryFiles = [...needSortItem, ...remainItem];
+      return [
+        ...needSortItem.map(directoryMapper).filter((x) => x !== null), 
+        ...remainItem.map(directoryMapper).filter((x) => x !== null).sort((a, b) => a?.text.localeCompare(b?.text))];
+    } else {
+
+      return directoryFiles
+        .map(directoryMapper)
+        .filter((x) => x !== null)
+        .sort((a, b) => a?.text.localeCompare(b?.text));
     }
 
-    return directoryFiles
-      .map((x: string) => {
-        const childItemPath = resolve(currentDir, x);
-        const childItemPathDisplay = `${displayDir}/${x}`
-          .replace(options.root ?? '', '')
-          .replace(/\/{2}/, '/')
-          .replace(/\.md$/, '');
-
-        if (/\.vitepress/.test(childItemPath)) {
-          return null;
-        }
-        if (displayDir === options.root && x === 'index.md' && !options.includeRootIndexFile) {
-          return null;
-        }
-        if (!options.includeDotFiles && /^\./.test(x)) {
-          return null;
-        }
-
-        if (statSync(childItemPath).isDirectory()) {
-          if (options.excludeFolders?.includes(x)) {
-            return null;
-          }
-
-          let directorySidebarItems =
-            VitePressSidebar.generateSidebarItem(
-              depth + 1,
-              childItemPath,
-              childItemPathDisplay,
-              x,
-              options
-            ) || [];
-
-          let newDirectoryText = VitePressSidebar.getTitleFromMd(x, childItemPath, options, true);
-          let withDirectoryLink;
-
-          if (options.convertSameNameSubFileToGroupIndexPage) {
-            const findItem = directorySidebarItems.find((y: SidebarListItem) => y.text === x);
-
-            if (findItem) {
-              newDirectoryText = VitePressSidebar.getTitleFromMd(
-                x,
-                resolve(childItemPath, `${findItem.text}.md`),
-                options,
-                false
-              );
-
-              if (options.folderLinkNotIncludesFileName) {
-                withDirectoryLink = childItemPathDisplay;
-              } else {
-                withDirectoryLink = findItem.link;
-              }
-
-              directorySidebarItems = directorySidebarItems.filter(
-                (y: SidebarListItem) => y.text !== x
-              );
-            }
-          }
-
-          if (options.convertIndexSubFileToGroupIndexPage) {
-            const findItem = directorySidebarItems.find((y: SidebarListItem) => y.link.includes('index'));
-
-            if (findItem) {
-              newDirectoryText = VitePressSidebar.getTitleFromMd(
-                findItem.text,
-                resolve(childItemPath, `index.md`),
-                options,
-                false
-              );
-
-              if (options.folderLinkNotIncludesFileName) {
-                withDirectoryLink = childItemPathDisplay;
-              } else {
-                withDirectoryLink = findItem.link;
-              }
-
-              directorySidebarItems = directorySidebarItems.filter(
-                (y: SidebarListItem) => y.text !== findItem.text
-              );
-            }
-          }
-
-          if (options.includeEmptyFolder || directorySidebarItems.length > 0) {
-            return {
-              text: newDirectoryText,
-              ...(withDirectoryLink ? { link: withDirectoryLink } : {}),
-              items: directorySidebarItems,
-              ...(options.collapsed === null || options.collapsed === undefined
-                ? {}
-                : { collapsed: depth >= options.collapseDepth! && options.collapsed })
-            };
-          }
-
-          return null;
-        }
-        if (childItemPath.endsWith('.md')) {
-          if (options.excludeFiles?.includes(x)) {
-            return null;
-          }
-
-          let childItemText;
-          const childItemTextWithoutExt = x.replace(/\.md$/, '');
-
-          if (
-            options.convertSameNameSubFileToGroupIndexPage &&
-            parentName === childItemTextWithoutExt
-          ) {
-            childItemText = childItemTextWithoutExt;
-          } else {
-            childItemText = VitePressSidebar.getTitleFromMd(x, childItemPath, options);
-          }
-
-          return {
-            text: childItemText,
-            link: childItemPathDisplay
-          };
-        }
-        return null;
-      })
-      .filter((x) => x !== null);
   }
 
   private static getTitleFromMd(
