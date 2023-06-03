@@ -8,8 +8,11 @@
     "vue": "3.2.45"
   },
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "@types/node": "^20.2.5",
+    "vitepress": "^1.0.0-beta.1",
+    "vitepress-auto-nav-sidebar": "^0.0.5",
+    "vitepress-plugin-auto-sidebar": "^1.0.7",
+    "vitepress-sidebar": "^1.7.5",
+    "vue": "^3.3.4"
   }
 }
