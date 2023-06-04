@@ -20,11 +20,11 @@ hero:
       link: /referensi/
 
 features:
-  - title: Bab 1
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Bab 2
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Bab 3
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Tata Kelola 
+    details: Tata kelola klinik yang baik akan menghasilkan pelayanan yang baik terutama dalam upaya meningkatkan mutu dan keselamatan pasien. 
+  - title: Mutu dan Keselamatan Pasien
+    details: Dalam memberikan pelayanan dan asuhan pada pasien, klinik melaksanakan program Peningkatan Mutu dan Keselamatan Pasien.
+  - title: Penyelenggaraan Kesehatan Perseorangan
+    details: Pelayanan yang dilakukan di klinik meliputi pelayanan preventif, promotif, kuratif dan rehabilitatif.
 ---
 

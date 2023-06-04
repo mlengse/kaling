@@ -30,7 +30,7 @@ const sidebar = generateSidebar( {
 export default defineConfig({
   title: "Akreditasi Klinik",
   description: "Dokumen referensi persiapan akreditasi Klinik Dr. Ning Kaling",
-  // cleanUrls: true,
+  cleanUrls: true,
   themeConfig: {
     search: {
       provider: 'local'
