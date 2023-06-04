@@ -14,7 +14,7 @@ hero:
     #   link: /api-examples
     - theme: brand
       text: Mulai
-      link: /referensi/kmk-standar
+      link: /referensi/pendahuluan
     - theme: alt
       text: Referensi
       link: /referensi/
