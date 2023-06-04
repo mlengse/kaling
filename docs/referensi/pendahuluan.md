@@ -1,5 +1,5 @@
 # Pendahuluan  	 
-  
+
 ## Latar Belakang 
 Klinik adalah fasilitas pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan yang menyediakan pelayanan medik dasar dan/atau spesialistik secara komprehensif, yaitu: 
 1. Pelayanan sesuai standar pelayanan kedokteran 
@@ -64,16 +64,20 @@ Standar akreditasi klinik meliputi gambaran umum, maksud dan tujuan, serta eleme
  
 ## Struktur Standar Akreditasi 
 1. Bab 
+
     Bab merupakan pengelompokkan standar-standar yang sejenis dan saling berkaitan antara satu dengan standar lainnya. 
 2. Standar 
+    
     Standar di dalam standar akreditasi klinik mendefinisikan struktur, atau fungsi- fungsi kinerja yang harus ada agar dapat diakreditasi yang ditetapkan sesuai dengan referensi dan ketentuan peraturan perundang-undangan. Selama proses survei akreditasi, dilakukan penilaian terhadap standar ini. 
 3. Maksud dan Tujuan 
+    
     Maksud dan Tujuan menjabarkan makna sepenuhnya dari standar. Maksud dan tujuan akan mendeskripsikan tujuan dari sebuah standar, memberikan penjelasan isi standar secara umum serta upaya pemenuhan standar. 
 4. Elemen Penilaian 
+    
     Elemen Penilaian (EP) adalah standar yang mengindikasikan apa yang akan dinilai dan diberi nilai (score) selama proses survei di tempat. Elemen penilaian untuk masing-masing standar mengidentifikasi persyaratan yang dibutuhkan untuk memenuhi kepatuhan terhadap standar. Elemen penilaian dimaksudkan untuk memperjelas standar dan membantu klinik memahami standar, serta memberikan arahan untuk persiapan akreditasi. 
  
 ## Kelompok Standar Akreditasi Klinik 
-Standar Akreditasi Klinik dikelompokkan menurut fungsi-fungsi penting yang umum dalam organisasi klinik. Standar dikelompokkan menurut fungsi yang terkait dengan penyediaan pelayanan bagi pasien (good clinical governance) dan upaya menciptakan organisasi klinik yang aman, efektif, dan dikelola dengan baik (good corporate governance). 
+Standar Akreditasi Klinik dikelompokkan menurut fungsi-fungsi penting yang umum dalam organisasi klinik. Standar dikelompokkan menurut fungsi yang terkait dengan penyediaan pelayanan bagi pasien (*good clinical governance*) dan upaya menciptakan organisasi klinik yang aman, efektif, dan dikelola dengan baik (*good corporate governance*). 
 Standar Akreditasi klinik terdiri atas 3 (tiga) Bab meliputi: 
 
 ### Bab I. [Tata Kelola Klinik (TKK)](/tkk/)  
@@ -100,7 +104,7 @@ Standar Akreditasi klinik terdiri atas 3 (tiga) Bab meliputi:
 - Standar 3.12 :  [Penyelenggaraan Rekam Medis (PKP 12)](/pkp/12) 
 - Standar 3.13 :  [Pelayanan Laboratorium (PKP 13)](/pkp/13) 
 - Standar 3.14 :  [Pelayanan Radiologi (PKP 14)](/pkp/14) 
-- Standar 3.15 :  [Pelayanan Kefarmasian (PKP 15)](/pkp/15) 
+- Standar 3.15 :  [Pelayanan 'Kefarmasian :pill: :pills' :pill: (PKP 15)](/pkp/15) 
      
 Secara umum standar akreditasi klinik ini telah mengakomodir regulasi-regulasi yang ditetapkan pemerintah dalam pelayanan klinik baik klinik pratama maupun klinik utama. 
 
