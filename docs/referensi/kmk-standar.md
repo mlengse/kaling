@@ -44,6 +44,10 @@ Pelayanan kesehatan pada klinik dilaksanakan dalam bentuk:
     Pelayanan Rawat Rumah (*Home Care*) adalah pelayanan pasien dengan kondisi tertentu di rumah (mobilisasi pasien sulit, pasien lansia dengan penyakit kronis dan lain sebagainya) untuk observasi, pengobatan, rehabilitasi medis pasca rawat inap. Pasien yang dilayani harus memiliki rekam medis di klinik yang memberikan pelayanan *home care*. Pelayanan medis dasar yang dilakukan pada pelayanan *home care* sesuai indikasi medis dan standar pelayanan kedokteran. Pelayanan *home care* hanya dapat dilakukan oleh tenaga kesehatan yang bekerja di klinik dan menjadi tanggungjawab penanggung jawab klinik bersangkutan. 
      
 Berdasarkan data pada tahun 2021 terdapat 11.347 klinik (klinik pratama dan klinik utama) di Indonesia. Sebagai upaya peningkatan mutu pelayanan fasilitas kesehatan maka setiap fasilitas kesehatan melaksanakan akreditasi termasuk klinik pratama dan klinik utama. 
+
+Akreditasi adalah pengakuan terhadap mutu fasilitas pelayanan kesehatan setelah dilakukan penilaian bahwa fasilitas pelayanan kesehatan telah memenuhi standar akreditasi yang disetujui oleh Pemerintah. Akreditasi di Puskesmas, Klinik, Laboratorium Kesehatan, UTD, TPMD, dan TPMDG menggunakan Standar Akreditasi yang ditetapkan oleh Menteri dan dilaksanakan oleh Lembaga Penyelenggara Akreditasi. Pemerintah mengharapkan pada tahun 2024 seluruh fasilitas pelayanan kesehatan di Indonesia telah terakreditasi sesuai dengan target Rencana Pembangunan Jangka Menengah Nasional (RPJMN) tahun 2020-2024.  
+
+Dalam hal memenuhi standar akreditasi klinik yang meliputi penilaian terhadap elemen penilaian, maka diperlukan adanya suatu alat bantu. Berdasarkan hal tersebut maka Kementerian Kesehatan menetapkan Instrumen Survei Akreditasi Klinik.
  
 ## Tujuan 
 1. Mendorong klinik untuk menerapkan standar akreditasi dalam rangka meningkatkan dan menjaga kesinambungan mutu pelayanan dan keselamatan pasien di klinik. 
@@ -51,6 +55,12 @@ Berdasarkan data pada tahun 2021 terdapat 11.347 klinik (klinik pratama dan klin
  
 ## Ruang Lingkup 
 Standar akreditasi klinik meliputi gambaran umum, maksud dan tujuan, serta elemen penilaian pada setiap kelompok standar akreditasi klinik. 
+
+## Sasaran
+1. Pemerintah daerah provinsi; 
+2. Pemerintah daerah kabupatan/kota; 
+3. Klinik; dan 
+4. Lembaga Penyelenggara Akreditasi. 
  
 ## Struktur Standar Akreditasi 
 1. Bab 

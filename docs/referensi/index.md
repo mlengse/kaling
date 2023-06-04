@@ -10,8 +10,7 @@ next:
 1. Peraturan Menteri Kesehatan Republik Indonesia Nomor 34 tahun 2022 Tentang Akreditasi Pusat Kesehatan Masyarakat, Klinik, laboratorium Kesehatan, unit Transfusi Darah, tempat Praktik Mandiri Dokter, Dan Tempat Praktik Mandiri Dokter Gigi
 
 2. Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/Menkes/1983/2022 Tentang Standar Akreditasi Klinik
-    :::details
-    Dasar hukum:
+    :::details Dasar hukum:
 
     1.  Undang-Undang 	Nomor 	36 	Tahun 	2009 	tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor 5063); 
     6.  Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5584) sebagaimana telah beberapa kali diubah terakhir dengan UndangUndang Nomor 9 Tahun 2015 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);

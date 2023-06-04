@@ -5,7 +5,7 @@ import { generateSidebar } from './sidebar'
 
 const sidebar = generateSidebar( {
   root: 'docs',
-  // rootGroupText: 'Contents',
+  rootGroupText: 'Daftar Isi',
   // rootGroupLink: 'https://github.com/jooy2',
   useTitleFromFileHeading: true,
   useTitleFromFrontmatter: true,

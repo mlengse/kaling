@@ -1,5 +1,6 @@
 ---
 outline: deep
+title: 1. Tata Kelola Klinik
 next:
   text: 'TKK 1'
   link: '/tkk/1'
@@ -13,10 +14,11 @@ Klinik Pemerintah adalah adalah klinik yang diselenggarakan oleh pemerintah pusa
 Untuk dapat memberikan pelayanan yang optimal kepada pasien klinik harus memiliki kepemimpinan yang efektif. Salah satu indikator kepemimpinan yang efektif adalah adanya kejelasan pembagian tugas dan peran dari masingmasing pemangku kepentingan di klinik yaitu pemilik, penanggung jawab, dan pemberi pelayanan tertuang dalam sebuah tata kelola klinik. 
 
 Tata Kelola Klinik memuat: 
-- `a.` Visi misi klinik; 
-- `b.` Tata kelola dan struktur organisasi; 
-- `c.` Uraian tugas dan fungsi masing masing pemangku kepentingan; 
-- `d.` Tata kelola sumber daya manusia; 
-- `e.` Tata kelola fasilitas dan keselamatan 
+1. Visi misi klinik; 
+2. Tata kelola dan struktur organisasi; 
+3. Uraian tugas dan fungsi masing masing pemangku kepentingan; 
+4. Tata kelola sumber daya manusia; 
+5. Tata kelola fasilitas dan keselamatan; dan 
+6. Tata kelola pengaduan dan tindak lanjut. 
 
 Tata kelola klinik yang baik akan menghasilkan pelayanan yang baik terutama dalam upaya meningkatkan mutu dan keselamatan pasien.  
