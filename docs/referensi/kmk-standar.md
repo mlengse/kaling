@@ -104,3 +104,9 @@ Standar Akreditasi klinik terdiri atas 3 (tiga) Bab meliputi:
 - Standar 3.15 :  Pelayanan Kefarmasian (PKP 15) 
      
 Secara umum standar akreditasi klinik ini telah mengakomodir regulasi-regulasi yang ditetapkan pemerintah dalam pelayanan klinik baik klinik pratama maupun klinik utama. 
+
+## Penutup
+
+Penyelenggaraan akreditasi klinik dilaksanakan agar tercapai peningkatan mutu pelayanan kesehatan dan keselamatan pasien serta tata kelola klinik yang baik, sehingga terwujudnya penyelenggaraan pelayanan kesehatan di klinik yang bermutu, profesional, dan bertangggung jawab.  
+
+Dengan disusunnya instrumen survei akreditasi klinik, diharapkan semua pihak baik pemerintah pusat, pemerintah daerah provinsi, pemerintah daerah kabupaten/kota, klinik, lembaga penyelenggara akreditasi, maupun pemangku kepentingan lainnya dapat melaksanakan akreditasi klinik dengan efektif, efisien dan berkelanjutan.
