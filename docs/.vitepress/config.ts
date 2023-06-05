@@ -2,6 +2,12 @@ import { defineConfig } from 'vitepress'
 // import { generateSidebar } from 'vitepress-sidebar';
 // import AutoNavPlugin from 'vitepress-auto-nav-sidebar'
 import { generateSidebar } from './sidebar'
+// vite.config.(js|ts)
+// import { defineConfig } from "vite"
+import pugPlugin from "vite-plugin-pug"
+
+// const options = { pretty: true } // FIXME: pug pretty is deprecated!
+// const locals = { name: "My Pug" }
 
 const sidebar = generateSidebar( {
   root: 'docs',
@@ -31,6 +37,9 @@ export default defineConfig({
   title: "Akreditasi Klinik",
   description: "Dokumen referensi persiapan akreditasi Klinik Dr. Ning Kaling",
   cleanUrls: true,
+  vite: {
+    plugins: [pugPlugin()],
+  },
   themeConfig: {
     search: {
       provider: 'local'

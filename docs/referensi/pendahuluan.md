@@ -104,7 +104,7 @@ Standar Akreditasi klinik terdiri atas 3 (tiga) Bab meliputi:
 - Standar 3.12 :  [Penyelenggaraan Rekam Medis (PKP 12)](/pkp/12) 
 - Standar 3.13 :  [Pelayanan Laboratorium (PKP 13)](/pkp/13) 
 - Standar 3.14 :  [Pelayanan Radiologi (PKP 14)](/pkp/14) 
-- Standar 3.15 :  [Pelayanan 'Kefarmasian :pill: :pills' :pill: (PKP 15)](/pkp/15) 
+- Standar 3.15 :  [Pelayanan Kefarmasian (PKP 15)](/pkp/15) 
      
 Secara umum standar akreditasi klinik ini telah mengakomodir regulasi-regulasi yang ditetapkan pemerintah dalam pelayanan klinik baik klinik pratama maupun klinik utama. 
 

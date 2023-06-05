@@ -5,11 +5,12 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.2.5",
+    "vite-plugin-pug": "^0.3.2",
     "vitepress": "^1.0.0-beta.1",
     "vue": "^3.3.4"
   },
   "scripts": {
-    "dev": "vitepress dev docs",
+    "dev": "vitepress dev docs --port 3300 --open",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   }
