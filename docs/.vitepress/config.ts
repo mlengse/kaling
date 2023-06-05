@@ -40,6 +40,17 @@ export default defineConfig({
   vite: {
     plugins: [pugPlugin()],
   },
+  // markdown:{
+  //   anchor: {
+  //     slugify(str) {
+  //       return encodeURIComponent(str)
+  //     }
+  //   }
+  // },
+  // async postRender(context) {
+  //   console.log(context)
+  //   // ...
+  // },
   themeConfig: {
     search: {
       provider: 'local'
