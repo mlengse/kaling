@@ -20,5 +20,9 @@ export default defineConfig({
     // default theme preset
     presetThemeDefault(),
   ],
-  include: [/.*\/anu-vue\.js(.*)?$/, './**/*.vue', './**/*.md'],
+  content:{
+    pipeline: {
+      include: [/.*\/anu-vue\.js(.*)?$/, './**/*.vue', './**/*.md'],
+    }
+  }
 })
