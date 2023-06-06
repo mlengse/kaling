@@ -5,7 +5,7 @@ const { Layout } = DefaultTheme
 import { useRouter } from 'vitepress';
 const router = useRouter();
 import { watch } from 'vue';
-
+// import { ABtn } from 'anu-vue'
 if (typeof window !== 'undefined' ) {
   watch(() => router.route.data, () => {
     import('../../scroll').then(async (module) => {
@@ -20,9 +20,9 @@ if (typeof window !== 'undefined' ) {
 <template lang="pug">
 Layout
   template(#doc-before) 
-    br
-    ABtn.text-sm(variant="outline") Button
-    br
+    //- br
+    //- ABtn.text-sm(variant="outline") Button
+    //- br
 </template>
 
 <style>

@@ -2,6 +2,8 @@ import { defineConfig } from 'vitepress'
 import { generateSidebar } from './sidebar'
 import pugPlugin from "vite-plugin-pug"
 import Unocss from 'unocss/vite'
+import Components from 'unplugin-vue-components/vite'
+import { AnuComponentResolver } from 'anu-vue'
 
 const sidebar = generateSidebar( {
   root: 'docs',
@@ -27,6 +29,11 @@ export default defineConfig({
     plugins: [
       pugPlugin(),
       Unocss(),
+      Components({
+        resolvers: [
+          AnuComponentResolver()
+        ]
+      }),
     ],
   },
   themeConfig: {
