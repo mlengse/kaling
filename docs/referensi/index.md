@@ -1,8 +1,6 @@
 ---
 outline: deep
-next:
-  text: 'Pendahuluan'
-  link: '/referensi/pendahuluan'
+
 ---
 
 # Referensi

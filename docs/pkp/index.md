@@ -1,9 +1,7 @@
 ---
 outline: deep
-title: PKP
-next:
-  text: 'PKP 1'
-  link: '/pkp/1'
+title: 3. PKP
+
 ---
 # BAB III. Penyelenggaraan Kesehatan Perseorangan (PKP) 
 ## Gambaran Umum 

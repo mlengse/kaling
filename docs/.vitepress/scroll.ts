@@ -47,22 +47,15 @@ export async function useScroll (){
 
   const { hyphenateHTML } = hyphen
   
-  console.log('page finish')
   if(window.location.hash.length){
-    console.log(window.location.pathname, window.location.hash)
     const hash = window.location.hash
-    // console.log(to)
-    // console.log(window.location.pathname)
-    const searchTexts = [...new Set([...hash.replace(/[^\w\d]/g, ' ').split(' '), ...hash.replace(/[^\w\d]/g, ' ').toLowerCase().split(' ')])].filter( w => w.length)
+    const searchTexts = [...new Set([...hash.replace(/[^A-Za-z]/ig, ' ').split(' ')])].filter( w => w.length).filter(w => ['dan'].indexOf(w) === -1)
     const els = [
       ...document.querySelectorAll('.vp-doc p'),
-      // ...document.querySelectorAll('.vp-doc h1'),
-      // ...document.querySelectorAll('.vp-doc h2'),
       ...document.querySelectorAll('.vp-doc ol'),
       ...document.querySelectorAll('.vp-doc ul'),
     ]
     if(els.length) {
-      console.log(els.length)
       for (let el of els) {
         for(const searchText of searchTexts){
           let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'gi')
@@ -83,14 +76,13 @@ export async function useScroll (){
     ...Array.from(document.querySelectorAll('.vp-doc p')),
     ...Array.from(document.querySelectorAll('.vp-doc h1')),
     ...Array.from(document.querySelectorAll('.vp-doc h2')),
+    ...Array.from(document.querySelectorAll('.vp-doc h3')),
+    ...Array.from(document.querySelectorAll('.vp-doc h4')),
     ...Array.from(document.querySelectorAll('.vp-doc ol')),
     ...Array.from(document.querySelectorAll('.vp-doc ul')),
   ]
-  // console.log(el.innerHTML)
   for(let hypEl of hypEls){
     hyphenateHTML(hypEl.innerHTML, { 
-      // debug: true, 
-      // hyphenChar: "%", 
       minWordLength: 3 
     }).then( result =>{
       hypEl.innerHTML = result

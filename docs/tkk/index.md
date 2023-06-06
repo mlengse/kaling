@@ -1,9 +1,7 @@
 ---
 outline: deep
 title: 1. Tata Kelola Klinik
-next:
-  text: 'TKK 1'
-  link: '/tkk/1'
+
 ---
 # Bab I. Tata Kelola Klinik (TKK) 
 ## Gambaran Umum 

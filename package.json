@@ -4,14 +4,18 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@anu-vue/preset-theme-default": "^0.14.0",
     "@types/node": "^20.2.5",
+    "anu-vue": "^0.14.0",
+    "flexsearch": "^0.7.31",
     "hyphen": "^1.6.6",
+    "unocss": "^0.53.0",
     "vite-plugin-pug": "^0.3.2",
     "vitepress": "^1.0.0-beta.1",
     "vue": "^3.3.4"
   },
   "scripts": {
-    "dev": "vitepress dev docs --port 3300 --open",
+    "dev": "vitepress dev docs --port 3000",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   }

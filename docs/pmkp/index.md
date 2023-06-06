@@ -1,9 +1,7 @@
 ---
 outline: deep
 title: 2. PMKP
-next:
-  text: 'PMKP 1'
-  link: '/pmkp/1'
+
 ---
 
 # BAB II. Peningkatan Mutu dan Keselamatan Pasien (PMKP)

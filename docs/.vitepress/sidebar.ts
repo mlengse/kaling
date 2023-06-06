@@ -100,7 +100,8 @@ export default class VitePressSidebar {
       const childItemPathDisplay = `${displayDir}/${x}`
         .replace(options.root ?? '', '')
         .replace(/\/{2}/, '/')
-        .replace(/\.md$/, '');
+        .replace(/\.md$/, '')
+        .replace(/index$/, '');
 
       if (/\.vitepress/.test(childItemPath)) {
         return null;
@@ -153,7 +154,8 @@ export default class VitePressSidebar {
         }
 
         if (options.convertIndexSubFileToGroupIndexPage) {
-          const findItem = directorySidebarItems.find((y: SidebarListItem) => y.link.includes('index'));
+          // console.log(directorySidebarItems)
+          const findItem = directorySidebarItems.find((y: SidebarListItem) => y.link.slice(-1) === '/');
 
           if (findItem) {
             newDirectoryText = VitePressSidebar.getTitleFromMd(

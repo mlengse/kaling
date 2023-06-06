@@ -1,18 +1,17 @@
-// https://vitepress.dev/guide/custom-theme
-import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import Kaling from './layout/kaling.vue'
-import './style.css'
+// import type { App } from 'vue'
+import { anu } from 'anu-vue'
+import 'uno.css'
+import 'anu-vue/dist/style.css'
+import '@anu-vue/preset-theme-default/dist/style.css'
 
 export default {
   ...DefaultTheme,
   Layout: Kaling,
-  // Layout: () => {
-  //   return h(Theme.Layout, null, {
-  //     // https://vitepress.dev/guide/extending-default-theme#layout-slots
-  //   })
-  // },
-  enhanceApp({ app, router, siteData }) {
-    // ...
+  enhanceApp({ app }) {
+    app.use(anu, {
+      registerComponents: true,
+    })
   }
 }
