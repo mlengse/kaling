@@ -25,6 +25,12 @@ export default defineConfig({
   title: "Akreditasi Klinik",
   description: "Dokumen referensi persiapan akreditasi Klinik Dr. Ning Kaling",
   cleanUrls: true,
+  locales: {
+    root: {
+      label: 'Indonesia',
+      lang: 'id'
+    },
+  },
   vite: {
     plugins: [
       pugPlugin(),
