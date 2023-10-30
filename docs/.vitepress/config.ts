@@ -14,7 +14,7 @@ const sidebar = generateSidebar( {
   underscoreToSpace: true,
   collapsed: true,
   collapseDepth: 2,
-  sortByFileName: ['pendahuluan'],
+  sortByFileName: ['pendahuluan', 'survei'],
   excludeFolders: ['examples'],
   includeEmptyFolder: false,
   convertSameNameSubFileToGroupIndexPage: false,

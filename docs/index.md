@@ -16,7 +16,7 @@ hero:
       link: /pendahuluan/
     - theme: alt
       text: Referensi
-      link: /pendahuluan/referensi/
+      link: /pendahuluan/referensi
 
 features:
   - title: Tata Kelola 
