@@ -4,6 +4,22 @@ title: 1. Tata Kelola Klinik
 
 ---
 # Bab I. Tata Kelola Klinik (TKK) 
+
+:::code-group
+
+``` js [Nilai]
+TKK = 190
+```
+
+``` ts [Standar]
+TKK 1 = 30
+TKK 2 = 30
+TKK 3 = 100
+TKK 4 = 30
+
+```
+:::
+
 ## Gambaran Umum 
 Klinik merupakan fasilitas pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan yang menyediakan pelayanan medik dasar dan/atau spesialistik secara komprehensif. Pelayanan kesehatan di klinik dapat berupa pelayanan rawat jalan, rawat inap, dan kegawatdaruratan dan pertolongan persalinan normal sesuai standar. 
 

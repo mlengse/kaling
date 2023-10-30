@@ -3,8 +3,7 @@ layout: home
 title: Akreditasi Klinik
 hero:
   name: "Akreditasi Klinik"
-  text: "Dokumen referensi persiapan akreditasi "
-  tagline: Klinik Dr. Ning Kaling
+  text: "Dokumen referensi "
   actions:
     # - theme: brand
     #   text: Markdown Examples
@@ -14,10 +13,10 @@ hero:
     #   link: /api-examples
     - theme: brand
       text: Mulai
-      link: /referensi/pendahuluan
+      link: /pendahuluan/
     - theme: alt
       text: Referensi
-      link: /referensi/
+      link: /pendahuluan/referensi/
 
 features:
   - title: Tata Kelola 

@@ -14,7 +14,7 @@ const sidebar = generateSidebar( {
   underscoreToSpace: true,
   collapsed: true,
   collapseDepth: 2,
-  sortByFileName: ['referensi'],
+  sortByFileName: ['pendahuluan'],
   excludeFolders: ['examples'],
   includeEmptyFolder: false,
   convertSameNameSubFileToGroupIndexPage: false,

@@ -34,3 +34,4 @@ outline: deep
    :::details Dasar Hukum
    1. Keputusan Menteri Kesehatan Nomor HK.01.07/MENKES/1983/2022 tentang Standar Akreditasi Klinik; 
    :::  
+5. Surat Direktur Mutu Pelayanan Kesehatan Kemenkes Nomor YM.02.01/D.VI/2666/2023 hal Daftar Standar dan Elemen Penilaian yang TDD pada Standar Akreditasi Klinik

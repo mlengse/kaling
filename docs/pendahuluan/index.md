@@ -1,5 +1,41 @@
 # Pendahuluan  	 
 
+:::code-group
+
+``` js [Nilai]
+TKK = 190
+PMKP = 180 
+PKP = 670
+```
+
+``` ts [Standar]
+TKK 1 = 30
+TKK 2 = 30
+TKK 3 = 100
+TKK 4 = 30
+PMKP 1 = 50
+PMKP 2 = 80
+PMKP 3 = 50
+PKP 1 = 70
+PKP 2 = 20
+PKP 3 = 40
+PKP 4 = 30
+PKP 5 = 30
+PKP 6 = 20
+PKP 7 = 20
+PKP 8 = 60
+PKP 9 = 40
+PKP 10 = 30
+PKP 11 = 50
+PKP 12 = 40
+PKP 13 = 70
+PKP 14 = 20
+PKP 15 = 130
+
+```
+:::
+
+
 ## Latar Belakang 
 Klinik adalah fasilitas pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan yang menyediakan pelayanan medik dasar dan/atau spesialistik secara komprehensif, yaitu: 
 1. Pelayanan sesuai standar pelayanan kedokteran 

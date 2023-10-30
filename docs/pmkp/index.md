@@ -4,6 +4,19 @@ title: 2. PMKP
 
 ---
 
+:::code-group
+
+``` js [Nilai]
+PMKP = 180 
+```
+
+``` ts [Standar]
+PMKP 1 = 50
+PMKP 2 = 80
+PMKP 3 = 50
+```
+:::
+
 # BAB II. Peningkatan Mutu dan Keselamatan Pasien (PMKP)
 
 ## Gambaran Umum 
