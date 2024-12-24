@@ -1,3 +1,5 @@
+import createHyphenator from "hyphen";
+import patterns from "./id";
 
 
 export async function useScroll (){
@@ -14,7 +16,7 @@ export async function useScroll (){
       candidates = document.querySelectorAll('*');
     }
 
-    return Array.from(candidates).filter((elem: HTMLElement) => {
+    return Array.from(candidates).filter((elem: any) => {
       return elem.children.length === 0;
     });
   };
@@ -24,7 +26,7 @@ export async function useScroll (){
     let searchTexts = hash.split('#').join('').split('-')
     let searchText = searchTexts[0]
     let elems = getElementsWithNoChildren(document.querySelector('.vp-doc'), document)
-    let matchingElementArr = Array.from(elems).filter((v:HTMLElement) => v.textContent.includes(searchText));
+    let matchingElementArr = Array.from(elems).filter((v:any) => v.textContent.includes(searchText));
     if(matchingElementArr.length){
       return matchingElementArr[0]
     }
@@ -43,9 +45,11 @@ export async function useScroll (){
     return `<mark style="bg-yellow-300">${keyword}</mark>`
   }
 
-  const hyphen = await import('hyphen/id')
-
-  const { hyphenateHTML } = hyphen
+  
+  const hyphenate = createHyphenator(patterns, { async: true });
+  const hyphenateHTML = createHyphenator(patterns, { async: true, html: true });
+  const hyphenateHTMLSync = createHyphenator(patterns, { html: true });
+  const hyphenateSync = createHyphenator(patterns);
   
   if(window.location.hash.length){
     const hash = window.location.hash
@@ -82,9 +86,10 @@ export async function useScroll (){
     ...Array.from(document.querySelectorAll('.vp-doc ul')),
   ]
   for(let hypEl of hypEls){
-    hyphenateHTML(hypEl.innerHTML, { 
+    const asyncHTML = <Promise<any>>hyphenateHTML(hypEl.innerHTML, { 
       minWordLength: 3 
-    }).then( result =>{
+    })
+    asyncHTML.then( result =>{
       hypEl.innerHTML = result
     })
   }
