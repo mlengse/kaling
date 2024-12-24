@@ -46,10 +46,10 @@ export async function useScroll (){
   }
 
   
-  const hyphenate = createHyphenator(patterns, { async: true });
+  // const hyphenate = createHyphenator(patterns, { async: true });
   const hyphenateHTML = createHyphenator(patterns, { async: true, html: true });
-  const hyphenateHTMLSync = createHyphenator(patterns, { html: true });
-  const hyphenateSync = createHyphenator(patterns);
+  // const hyphenateHTMLSync = createHyphenator(patterns, { html: true });
+  // const hyphenateSync = createHyphenator(patterns);
   
   if(window.location.hash.length){
     const hash = window.location.hash
