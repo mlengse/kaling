@@ -1,5 +1,5 @@
-import { presetAnu, presetIconExtraProperties } from 'anu-vue'
-import { presetThemeDefault } from '@anu-vue/preset-theme-default'
+// import { presetAnu, presetIconExtraProperties } from 'anu-vue'
+// import { presetThemeDefault } from '@anu-vue/preset-theme-default'
 import {
   defineConfig,
   presetIcons,
@@ -11,14 +11,14 @@ export default defineConfig({
     presetUno(),
     presetIcons({
       scale: 1.2,
-      extraProperties: presetIconExtraProperties,
+      // extraProperties: presetIconExtraProperties,
     }),
 
     // anu-vue preset
-    presetAnu(),
+    // presetAnu(),
 
     // default theme preset
-    presetThemeDefault(),
+    // presetThemeDefault(),
   ],
   content:{
     pipeline: {

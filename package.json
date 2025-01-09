@@ -2,22 +2,23 @@
   "name": "vitepress-template",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
   "devDependencies": {
     "@anu-vue/preset-theme-default": "^0.14.0",
-    "@types/node": "^20.2.5",
+    "@types/node": "^20.17.12",
     "anu-vue": "^0.14.0",
-    "flexsearch": "^0.7.31",
+    "flexsearch": "^0.7.43",
     "hyphen": "^1.10.6",
-    "unocss": "^0.53.0",
-    "unplugin-vue-components": "^0.25.1",
-    "vite-plugin-pug": "^0.3.2",
+    "unocss": "^0.53.6",
+    "unplugin-vue-components": "^0.25.2",
+    "vite-plugin-pug-transformer": "^1.0.7",
     "vitepress": "^1.5.0",
-    "vue": "^3.3.4"
+    "vue": "^3.5.13"
   },
+  "license": "MIT",
   "scripts": {
     "dev": "vitepress dev docs --port 3000",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
-  }
+  },
+  "type": "module"
 }

@@ -1,10 +1,10 @@
 import { defineConfig } from 'vitepress'
 import { generateSidebar } from './sidebar'
-import pugPlugin from "vite-plugin-pug"
-import Unocss from 'unocss/vite'
+import vitePugPlugin from "vite-plugin-pug-transformer"
+import UnoCSS from 'unocss/vite'
 import Components from 'unplugin-vue-components/vite'
 import { AnuComponentResolver } from 'anu-vue'
-import { hostname } from 'os'
+// import { hostname } from 'os'
 
 const sidebar = generateSidebar( {
   root: 'docs',
@@ -23,9 +23,11 @@ const sidebar = generateSidebar( {
 })
 
 export default defineConfig({
+  lang: "id",
   title: "Akreditasi Klinik",
   description: "Dokumen referensi persiapan akreditasi Klinik Dr. Ning Kaling",
   cleanUrls: true,
+  // viteNext: true,
   sitemap: {
     hostname: 'https://klg.jyg.my.id'
   },
@@ -36,14 +38,15 @@ export default defineConfig({
     },
   },
   vite: {
+    // viteNext: true,
     plugins: [
-      pugPlugin(),
-      Unocss(),
-      Components({
-        resolvers: [
-          AnuComponentResolver()
-        ]
-      }),
+      vitePugPlugin({}),
+      // UnoCSS({}),
+      // Components({
+        // resolvers: [
+          // AnuComponentResolver()
+        // ]
+      // }),
     ],
   },
   themeConfig: {
