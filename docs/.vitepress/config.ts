@@ -1,9 +1,10 @@
 import { defineConfig } from 'vitepress'
 import { generateSidebar } from './sidebar'
 import vitePugPlugin from "vite-plugin-pug-transformer"
-import UnoCSS from 'unocss/vite'
-import Components from 'unplugin-vue-components/vite'
-import { AnuComponentResolver } from 'anu-vue'
+import { robots } from 'vite-plugin-robots';
+// import UnoCSS from 'unocss/vite'
+// import Components from 'unplugin-vue-components/vite'
+// import { AnuComponentResolver } from 'anu-vue'
 // import { hostname } from 'os'
 
 const sidebar = generateSidebar( {
@@ -41,6 +42,7 @@ export default defineConfig({
     // viteNext: true,
     plugins: [
       vitePugPlugin({}),
+      robots({})
       // UnoCSS({}),
       // Components({
         // resolvers: [

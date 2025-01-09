@@ -11,6 +11,7 @@
     "unocss": "^0.53.6",
     "unplugin-vue-components": "^0.25.2",
     "vite-plugin-pug-transformer": "^1.0.7",
+    "vite-plugin-robots": "^1.0.5",
     "vitepress": "^1.5.0",
     "vue": "^3.5.13"
   },
