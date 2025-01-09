@@ -4,6 +4,7 @@ import pugPlugin from "vite-plugin-pug"
 import Unocss from 'unocss/vite'
 import Components from 'unplugin-vue-components/vite'
 import { AnuComponentResolver } from 'anu-vue'
+import { hostname } from 'os'
 
 const sidebar = generateSidebar( {
   root: 'docs',
@@ -25,6 +26,9 @@ export default defineConfig({
   title: "Akreditasi Klinik",
   description: "Dokumen referensi persiapan akreditasi Klinik Dr. Ning Kaling",
   cleanUrls: true,
+  sitemap: {
+    hostname: 'https://klg.jyg.my.id'
+  },
   locales: {
     root: {
       label: 'Indonesia',

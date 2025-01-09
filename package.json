@@ -12,7 +12,7 @@
     "unocss": "^0.53.0",
     "unplugin-vue-components": "^0.25.1",
     "vite-plugin-pug": "^0.3.2",
-    "vitepress": "^1.0.0-beta.1",
+    "vitepress": "^1.5.0",
     "vue": "^3.3.4"
   },
   "scripts": {
