@@ -22,7 +22,12 @@ export async function useScroll (){
   };
 
   const findEl = async (hash: string , x = 100, document ) => {
-    let el = document.querySelector(hash)
+    let el;
+    try {
+      el = document.querySelector(hash)
+    } catch {
+      // invalid hash
+    }
     let searchTexts = hash.split('#').join('').split('-')
     let searchText = searchTexts[0]
     let elems = getElementsWithNoChildren(document.querySelector('.vp-doc'), document)
