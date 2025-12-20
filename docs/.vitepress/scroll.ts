@@ -1,7 +1,3 @@
-import createHyphenator from "hyphen";
-import patterns from "./id";
-
-
 export async function useScroll (){
   function getElementsWithNoChildren (target, document) {
     let candidates;
@@ -50,12 +46,6 @@ export async function useScroll (){
     return `<mark style="bg-yellow-300">${keyword}</mark>`
   }
 
-  
-  // const hyphenate = createHyphenator(patterns, { async: true });
-  const hyphenateHTML = createHyphenator(patterns, { async: true, html: true });
-  // const hyphenateHTMLSync = createHyphenator(patterns, { html: true });
-  // const hyphenateSync = createHyphenator(patterns);
-  
   if(window.location.hash.length){
     const hash = window.location.hash
     const searchTexts = [...new Set([...hash.replace(/[^A-Za-z]/ig, ' ').split(' ')])].filter( w => w.length).filter(w => ['dan'].indexOf(w) === -1)
@@ -79,24 +69,6 @@ export async function useScroll (){
         }
       }
     } 
-  }
-
-  const hypEls = [
-    ...Array.from(document.querySelectorAll('.vp-doc p')),
-    ...Array.from(document.querySelectorAll('.vp-doc h1')),
-    ...Array.from(document.querySelectorAll('.vp-doc h2')),
-    ...Array.from(document.querySelectorAll('.vp-doc h3')),
-    ...Array.from(document.querySelectorAll('.vp-doc h4')),
-    ...Array.from(document.querySelectorAll('.vp-doc ol')),
-    ...Array.from(document.querySelectorAll('.vp-doc ul')),
-  ]
-  for(let hypEl of hypEls){
-    const asyncHTML = <Promise<any>>hyphenateHTML(hypEl.innerHTML, { 
-      minWordLength: 3 
-    })
-    asyncHTML.then( result =>{
-      hypEl.innerHTML = result
-    })
   }
 
   if(window.location.hash.length){
