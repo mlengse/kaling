@@ -1,3 +1,7 @@
+---
+title: "Alur Survei"
+description: "Panduan umum alur pelaksanaan survei akreditasi klinik oleh lembaga penyelenggara resmi yang ditunjuk oleh Kementerian Kesehatan RI."
+---
 # Survei
 
 ## Latar Belakang 
