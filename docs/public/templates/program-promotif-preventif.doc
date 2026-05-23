@@ -1,0 +1,137 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Program Promotif Preventif dan Proprinas</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">PROGRAM PELAYANAN PROMOTIF DAN PREVENTIF</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 20px;">KLINIK KELUARGA SEHAT - TAHUN 2026</div>
+    
+    <div class="section-title">A. TARGET PROGRAM PRIORITAS NASIONAL (PROPRINAS)</div>
+    <p>Klinik menyusun program bulanan untuk berpartisipasi aktif dalam mendukung program prioritas nasional sektor kesehatan:</p>
+    <ol>
+        <li><b>Pencegahan dan Penatalaksanaan Tuberkulosis (TB):</b> Menyediakan ruang skrining batuk ber-ventilasi baik, berpartisipasi dalam penemuan kasus aktif melalui rujukan sampel dahak TCM ke Puskesmas, pencatatan di aplikasi SITB resmi Kemenkes.</li>
+        <li><b>Pencegahan Penularan HIV/AIDS:</b> Edukasi sukarela kelompok berisiko (VCT/PITC), rujukan tes antibodi HIV terintegrasi (SIHA Kemenkes).</li>
+        <li><b>Pencegahan Stunting dan Wasting Anak:</b> Melakukan posyandu balita dampingan berkala, edukasi gizi ASI eksklusif, PMT (Pemberian Makanan Tambahan) lokal.</li>
+        <li><b>Kesehatan Ibu dan Anak (KIA):</b> Pemeriksaan ANC terpadu menggunakan USG dasar terakreditasi, program imunisasi bayi dasar lengkap.</li>
+    </ol>
+    
+    <div class="section-title">B. FORMULIR PENCATATAN BULANAN PROGRAM TB-SITB & IMUNISASI</div>
+    <table>
+        <tr>
+            <th>Bulan</th>
+            <th>Jumlah Skrining Suspek TB</th>
+            <th>Pasien TB Terkonfirmasi (BTA+)</th>
+            <th>Pasien TB Mulai OAT</th>
+            <th>Capaian Imunisasi Bayi</th>
+            <th>Jumlah Edukasi Kelompok</th>
+            <th>Status Pelaporan SITB/SIHA</th>
+        </tr>
+        <tr>
+            <td class="text-center">Januari 2026</td>
+            <td class="text-center">15 Orang</td>
+            <td class="text-center">2 Orang</td>
+            <td class="text-center">2 Orang</td>
+            <td class="text-center">8 Bayi</td>
+            <td class="text-center">1 Sesi (15 peserta)</td>
+            <td class="text-center" style="color:green; font-weight:bold;">Selesai SITB</td>
+        </tr>
+        <tr>
+            <td class="text-center">Februari 2026</td>
+            <td class="text-center">10 Orang</td>
+            <td class="text-center">0</td>
+            <td class="text-center">0</td>
+            <td class="text-center">12 Bayi</td>
+            <td class="text-center">2 Sesi (25 peserta)</td>
+            <td class="text-center" style="color:green; font-weight:bold;">Selesai SITB</td>
+        </tr>
+    </table>
+
+</body>
+</html>
