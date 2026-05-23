@@ -1,0 +1,126 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>SPO Pelayanan Radiologi Keselamatan Radiasi</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">SPO PELAYANAN RADIOLOGI DAN PROTEKSI KEAMANAN RADIASI</div>
+    
+    <div class="section-title">A. PANDUAN PROTEKSI RADIASI UNTUK STAF DAN PASIEN</div>
+    <p>Khusus klinik yang menyelenggarakan pelayanan Radiologi (Rontgen Dental / X-Ray Umum):</p>
+    <ul>
+        <li><b>Untuk Staf Radiografer:</b> Wajib mengenakan apron pelindung timbal (Pb) tebal minimum 0.25 mm selama pemaparan sinar X. Wajib menggunakan TLD badge personal. Dilarang berada di ruang tembak saat eksposur dilakukan.</li>
+        <li><b>Untuk Pasien & Keluarga:</b> Wajib dipasangkan apron Pb pada area gonad/leher (tiroid) jika tidak mengganggu visual rontgen. Tanyakan status kehamilan pada pasien wanita subur.</li>
+        <li><b>Lingkungan Fisik:</b> Dinding ruang rontgen wajib dilapisi Pb tebal minimum 2 mm, pintu berlapis timbal lengkap dengan lampu indikator merah menyala saat eksposur berlangsung di atas pintu.</li>
+    </ul>
+    
+    <div class="section-title">B. LOGBOOK PEMELIHARAAN ALAT RADIOLOGI & KALIBRASI</div>
+    <table>
+        <tr>
+            <th>Tanggal Pemeliharaan</th>
+            <th>Nama Alat Radiologi</th>
+            <th>Merek & No Seri</th>
+            <th>Uji Paparan Kebocoran Alat (Lolos/Gagal)</th>
+            <th>Masa Berlaku Sertifikat Kalibrasi BPFK</th>
+            <th>Masa Berlaku Izin BAPETEN</th>
+            <th>Paraf Teknisi</th>
+        </tr>
+        <tr>
+            <td class="text-center">05/01/2026</td>
+            <td>X-Ray Dental Panoramic</td>
+            <td>Carestream CS8100</td>
+            <td class="text-center" style="color:green; font-weight:bold;">Lolos Uji</td>
+            <td class="text-center">Hingga 12 Desember 2026</td>
+            <td class="text-center">Aktif s.d 2028</td>
+            <td class="text-center"><br>BPFK P.</td>
+        </tr>
+    </table>
+
+</body>
+</html>
