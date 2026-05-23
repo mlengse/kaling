@@ -1,3 +1,7 @@
+---
+title: "Pendahuluan"
+description: "Selamat datang di panduan digital akreditasi Klinik Pratama dan Utama. Platform referensi terlengkap untuk mempersiapkan pemenuhan kelengkapan bukti instrumen."
+---
 # Pendahuluan  	 
 
 :::code-group
