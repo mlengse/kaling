@@ -1,6 +1,7 @@
 ---
 outline: deep
-title: 1. Tata Kelola Klinik
+title: "1. Tata Kelola Klinik"
+description: "Kumpulan standar instrumen akreditasi kelompok Tata Kelola Klinik (Bab I: TKK) lengkap dengan penjelasan maksud, tujuan, dan template dokumen pendukung."
 
 ---
 # Bab I. Tata Kelola Klinik (TKK) 
