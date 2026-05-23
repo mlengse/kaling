@@ -28,10 +28,19 @@ export default defineConfig({
   title: "Akreditasi Klinik",
   description: "Dokumen referensi persiapan akreditasi Klinik Pratama dan Utama",
   cleanUrls: true,
-  // viteNext: true,
   sitemap: {
     hostname: 'https://klg.jyg.my.id'
   },
+  head: [
+    // ['meta', { name: 'google-site-verification', content: 'VERIFIKASI_GOOGLE_ANDA' }], // Nanti user bisa ganti dengan kode verifikasi mereka
+    ['meta', { name: 'keywords', content: 'akreditasi klinik, kmk 62/2026, permenkes 14/2021, template dokumen klinik, tkk, pmkp, pkp, sdm, mfk, ppi, rekam medis' }],
+    ['meta', { name: 'author', content: 'Klinik Pratama dan Utama' }],
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Akreditasi Klinik - Dokumen & Template Lengkap' }],
+    ['meta', { property: 'og:description', content: 'Dokumen referensi persiapan akreditasi Klinik Pratama dan Utama sesuai standar instrumen KMK 62/2026.' }],
+    ['meta', { property: 'og:url', content: 'https://klg.jyg.my.id' }]
+  ],
   locales: {
     root: {
       label: 'Indonesia',
