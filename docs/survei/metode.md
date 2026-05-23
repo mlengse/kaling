@@ -1,3 +1,7 @@
+---
+title: "Metode Survei"
+description: "Rincian metode survei akreditasi klinik (Dokusimwawastaf) untuk memeriksa dokumen bukti, simulasi tindakan, wawancara staf, dan observasi lapangan."
+---
 # Metode 
 
 Metode survei akreditasi Puskesmas, klinik, laboratorium Kesehatan, dan UTD, dilakukan dengan 2 metode, yaitu metode luring (full offline) atau metode hybrid (online dan offline). Untuk TPMD dan TPMDG dilakukan dengan metode daring (full online) 
