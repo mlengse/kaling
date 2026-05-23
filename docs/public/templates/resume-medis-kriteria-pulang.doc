@@ -1,0 +1,173 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Resume Medis Kriteria Pulang</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">RESUME MEDIS PASIEN PULANG (DISCHARGE SUMMARY)</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 20px;">KLINIK KELUARGA SEHAT - TAHUN 2026</div>
+    
+    <table style="width:100%; border:1px solid #000; margin-bottom:15px;">
+        <tr>
+            <td style="width:50%;">
+                <b>Nama Pasien:</b> ........................................................<br>
+                <b>No. Rekam Medis:</b> ...............................................<br>
+                <b>Jenis Kelamin / Umur:</b> L / P &nbsp;&nbsp; .......... Tahun
+            </td>
+            <td style="width:50%;">
+                <b>Tanggal Masuk Rawat:</b> ......................................<br>
+                <b>Tanggal Keluar / Pulang:</b> ..................................<br>
+                <b>Dokter Penanggung Jawab (DPJP):</b> dr. .......................
+            </td>
+        </tr>
+    </table>
+    
+    <div class="section-title">A. BATAS MAKSIMAL RAWAT INAP KLINIK SESUAI REGULASI NASIONAL</div>
+    <p style="background-color:#ffe5cc; padding:8px; border:1px solid #ff9900; font-weight:bold; font-size:9.5pt;">
+        ⚠️ PENTING: Sesuai dengan regulasi akreditasi nasional, klinik hanya dapat memberikan pelayanan rawat inap paling lama 5 (lima) hari. Apabila memerlukan rawat inap lebih dari 5 hari, maka pasien harus secara terencana dirujuk ke Rumah Sakit yang bermitra.
+    </p>
+    
+    <div class="section-title">B. RINGKASAN KLINIS PASIEN</div>
+    <p><b>1. Keluhan Utama saat Masuk:</b> ..............................................................................................................................................<br>
+    <b>2. Temuan Fisik & Penunjang Penting (Lab/Ekg):</b> ............................................................................................................................<br>
+    <b>3. Diagnosis Utama (Akhir):</b> .................................................... <b>Diagnosis Sekunder:</b> .............................................................<br>
+    <b>4. Tindakan Medis / Bedah Minor:</b> .............................................................................................................................</p>
+    
+    <div class="section-title">C. TERAPI OBAT PULANG & ATURAN PAKAI</div>
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Nama Obat Pulang</th>
+            <th>Dosis Obat (mg/ml)</th>
+            <th>Frekuensi Minum</th>
+            <th>Rute</th>
+            <th>Jumlah</th>
+            <th>Aturan Minum (Habiskan/prn)</th>
+        </tr>
+        <tr>
+            <td class="text-center">1</td>
+            <td>Amoxicillin 500 mg</td>
+            <td class="text-center">500 mg</td>
+            <td class="text-center">3 x 1 Tablet</td>
+            <td class="text-center">Oral</td>
+            <td class="text-center">10 Tablet</td>
+            <td>Wajib DIHABISKAN (Antibiotik).</td>
+        </tr>
+        <tr>
+            <td class="text-center">2</td>
+            <td>Paracetamol 500 mg</td>
+            <td class="text-center">500 mg</td>
+            <td class="text-center">3 x 1 Tablet</td>
+            <td class="text-center">Oral</td>
+            <td class="text-center">10 Tablet</td>
+            <td>Diminum bila demam / nyeri (prn).</td>
+        </tr>
+    </table>
+    
+    <div class="section-title">D. INSTRUKSI PASCA PULANG (EDUKASI KONTROL)</div>
+    <p>1. **Jadwal Kontrol Poli:** Hari/Tanggal ............................................................ Pukul ............... WIB.<br>
+    2. **Kondisi Emergensi Segera ke UGD jika:** Mengalami demam mendadak tinggi, perdarahan hebat pada luka, muntah berulang, sesak napas berat.</p>
+    
+    <table class="signature-table" style="margin-top: 30px;">
+        <tr>
+            <td>
+                Pasien / Keluarga Penerima Penjelasan,<br><br><br><br>
+                ( <b>................................................</b> )
+            </td>
+            <td>
+                Jakarta, Tgl ................................ Jam ...........<br>
+                Dokter Penanggung Jawab (DPJP),<br><br><br><br>
+                ( <b>dr. ........................................</b> )<br>
+                SIP. ............................................
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
