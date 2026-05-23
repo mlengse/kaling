@@ -1,3 +1,7 @@
+---
+title: "Kode Etik Surveior"
+description: "Kode etik resmi, kewajiban, hak, wewenang, dan tanggung jawab tim surveior akreditasi klinik selama melaksanakan penilaian lapangan secara profesional."
+---
 # Surveior
 
 ## Kategori  
