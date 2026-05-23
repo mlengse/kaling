@@ -1,0 +1,244 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Informed Consent</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">FORMULIR PERSETUJUAN TINDAKAN KEDOKTERAN<br>(INFORMED CONSENT)</div>
+    
+    <table style="width: 100%; border: 1px solid #000; margin-bottom: 15px;">
+        <tr>
+            <td style="width: 50%; font-weight: bold; background-color: #f2f2f2;">PEMBERIAN INFORMASI</td>
+            <td style="width: 50%; font-weight: bold; background-color: #f2f2f2;">IDENTITAS PASIEN</td>
+        </tr>
+        <tr>
+            <td>
+                <b>Dokter Penanggung Jawab:</b> dr. ........................................<br>
+                <b>Pemberi Informasi:</b> dr. ........................................<br>
+                <b>Penerima Informasi:</b> ................................................
+            </td>
+            <td>
+                <b>Nama Pasien:</b> ......................................................<br>
+                <b>No. Rekam Medis:</b> ...............................................<br>
+                <b>Tgl Lahir / Umur:</b> ................... / .......... Tahun<br>
+                <b>Jenis Kelamin:</b> Laki-laki / Perempuan
+            </td>
+        </tr>
+    </table>
+    
+    <div class="section-title">A. PEMBERIAN INFORMASI MEDIS</div>
+    <table>
+        <tr>
+            <th style="width: 5%;">No</th>
+            <th style="width: 25%;">Jenis Informasi</th>
+            <th style="width: 60%;">Penjelasan Informasi Medis</th>
+            <th style="width: 10%;">Tanda (V)</th>
+        </tr>
+        <tr>
+            <td class="text-center">1</td>
+            <td><b>Diagnosis (WD/DD)</b></td>
+            <td>......................................................................................................</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">2</td>
+            <td><b>Dasar Diagnosis</b></td>
+            <td>Pemeriksaan fisik, anamnesis, pemeriksaan penunjang (lab/rontgen)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">3</td>
+            <td><b>Tindakan Kedokteran</b></td>
+            <td>......................................................................................................</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">4</td>
+            <td><b>Indikasi Tindakan</b></td>
+            <td>......................................................................................................</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">5</td>
+            <td><b>Tata Cara & Teknik</b></td>
+            <td>Tindakan bedah minor / anestesi lokal / penjahitan luka / dll.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">6</td>
+            <td><b>Tujuan & Manfaat</b></td>
+            <td>......................................................................................................</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">7</td>
+            <td><b>Risiko & Komplikasi</b></td>
+            <td>Nyeri, perdarahan, infeksi sekunder, alergi obat anestesi lokal.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">8</td>
+            <td><b>Alternatif & Risiko</b></td>
+            <td>Penolak tindakan berisiko memburuknya kondisi klinis pasien.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">9</td>
+            <td><b>Prognosis</b></td>
+            <td>Dubia ad bonam / Dubia ad malam</td>
+            <td></td>
+        </tr>
+    </table>
+    
+    <div style="font-size: 8pt; font-style: italic; margin-bottom: 15px;">*Dengan membubuhkan tanda centang (V), Dokter menyatakan telah memberikan penjelasan secara lisan, dan Pasien/Keluarga menyatakan telah memahaminya.</div>
+    
+    <div style="page-break-before: always;"></div>
+    
+    <div class="section-title">B. PERNYATAAN PERSETUJUAN / PENOLAKAN TINDAKAN MEDIS</div>
+    <p>Yang bertanda tangan di bawah ini:</p>
+    <table style="border:none; width:100%;">
+        <tr style="border:none;">
+            <td style="border:none; width:25%;">Nama Lengkap</td>
+            <td style="border:none; width:5%; text-align:center;">:</td>
+            <td style="border:none; width:70%;">...........................................................................................................</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none;">Umur / Tgl Lahir</td>
+            <td style="border:none; text-align:center;">:</td>
+            <td style="border:none;">.......... Tahun / .......................................................................................</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none;">Alamat Lengkap</td>
+            <td style="border:none; text-align:center;">:</td>
+            <td style="border:none;">...........................................................................................................</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none;">Hubungan dengan Pasien</td>
+            <td style="border:none; text-align:center;">:</td>
+            <td style="border:none;">Diri sendiri / Suami / Istri / Anak / Orang Tua / Wali</td>
+        </tr>
+    </table>
+    
+    <p>Menyatakan dengan sesungguhnya bahwa saya telah menerima <b>PENJELASAN DAN INFORMASI MEDIS</b> secara lisan dari Dokter Klinik Keluarga Sehat, memahami sepenuhnya, dan secara sadar tanpa paksaan menyatakan:</p>
+    <p class="text-center" style="font-weight: bold; font-size: 11pt; margin: 10px 0;">
+        [ &nbsp; ] MENYETUJUI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ &nbsp; ] MENOLAK
+    </p>
+    <p>untuk dilakukan tindakan medis berupa: <b>........................................................................................................</b> terhadap diri saya sendiri / pasien yang bernama: <b>.................................................................</b>.</p>
+    <p>Saya menyetujui bahwa tindakan tersebut merupakan ikhtiar medis yang memiliki risiko bawaan, dan saya bertanggung jawab atas pilihan yang saya tanda tangani di bawah ini.</p>
+    
+    <table class="signature-table" style="margin-top: 30px;">
+        <tr>
+            <td>
+                Dokter yang Menjelaskan,<br><br><br><br>
+                ( <b>dr. ........................................</b> )<br>
+                SIP. ............................................
+            </td>
+            <td>
+                Jakarta, Tgl ................................ Jam ...........<br>
+                Pasien / Yang Membuat Pernyataan,<br><br><br><br>
+                ( <b>................................................</b> )<br>
+                Tanda Tangan & Nama Terang
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 15px;">
+                Saksi dari Pihak Klinik,<br><br><br><br>
+                ( <b>................................................</b> )<br>
+                Staf Klinik / Perawat
+            </td>
+            <td style="padding-top: 15px;">
+                Saksi dari Pihak Keluarga,<br><br><br><br>
+                ( <b>................................................</b> )<br>
+                Anggota Keluarga Pasien
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
