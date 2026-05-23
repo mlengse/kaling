@@ -1,0 +1,130 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Kebijakan dan Program PPI</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">PROGRAM KERJA PENCEGAHAN DAN PENGENDALIAN INFEKSI (PPI)</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 20px;">KLINIK KELUARGA SEHAT - TAHUN 2026</div>
+    
+    <div class="section-title">A. PROGRAM KERJA UTAMA PPI SESUAI KEWASPADAAN STANDAR</div>
+    <p><b>1. Kebersihan Tangan & Alat Pelindung Diri (APD)</b><br>
+    Penyediaan sarana cuci tangan dan handrub di seluruh unit pelayanan. Penyediaan APD standar (masker medis, apron plastik pelindung badan, sarung tangan steril/non-steril).</p>
+    
+    <p><b>2. Dekontaminasi & Sterilisasi Peralatan Pasien</b><br>
+    Penerapan desinfeksi dan sterilisasi autoklaf alat bedah minor gigi/medis secara sistematis.</p>
+    
+    <p><b>3. Penatalaksanaan Linen & Kebersihan Lingkungan</b><br>
+    Linen kotor wajib dikumpulkan dalam wadah tertutup terpisah (linen infeksius plastik kuning, linen non-infeksius plastik hitam) untuk dicuci menggunakan cairan desinfektan klorin di ruang pencucian khusus.</p>
+    
+    <p><b>4. Perlindungan Kesehatan Petugas & Needle-Stick Injury</b><br>
+    - **Program Imunisasi:** Staf medis wajib mendapatkan vaksinasi Hepatitis B lengkap secara berkala.<br>
+    - **Pencegahan Tusukan Jarum Bekas:** Dilarang keras melakukan penutupan jarum suntik bekas secara dua tangan (strict no-recapping). Lakukan teknik satu tangan (*one-hand recapping*) dalam keadaan darurat medis, dan segera buang jarum suntik bekas ke dalam wadah baja/plastik tebal tahan tusukan (*safety box*).</p>
+    
+    <p><b>5. Penempatan Pasien & Etika Batuk</b><br>
+    Isolasi sementara bagi pasien penularan infeksi airborne di ruang tunggu batuk terpisah yang berventilasi baik. Penyediaan masker bedah bagi pasien batuk.</p>
+    
+    <div class="section-title">B. SPO CUCI TANGAN 6 LANGKAH & 5 MOMEN (WHO HAND HYGIENE STANDARDS)</div>
+    <p><b>5 MOMEN WAJIB CUCI TANGAN PETUGAS MEDIS (5 Moments):</b><br>
+    1. Sebelum menyentuh pasien.<br>
+    2. Sebelum melakukan tindakan aseptik/bersih.<br>
+    3. Setelah terpapar cairan tubuh pasien.<br>
+    4. Setelah menyentuh pasien.<br>
+    5. Setelah menyentuh lingkungan sekitar pasien.</p>
+    
+    <p><b>6 LANGKAH CUCI TANGAN (WHO Standards):</b><br>
+    1. Gosok kedua telapak tangan secara lembut dengan arah memutar.<br>
+    2. Gosok punggung tangan kiri dengan telapak tangan kanan (lakukan bergantian).<br>
+    3. Gosok sela-sela jari tangan secara menyeluruh hingga bersih.<br>
+    4. Bersihkan ujung jari secara bergantian dengan posisi saling mengunci.<br>
+    5. Gosok ibu jari kiri berputar dalam genggaman tangan kanan (lakukan bergantian).<br>
+    6. Gosokkan memutar ujung jari-jari tangan kanan di telapak tangan kiri (lakukan bergantian).</p>
+
+</body>
+</html>
