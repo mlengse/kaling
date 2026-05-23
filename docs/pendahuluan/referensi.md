@@ -1,5 +1,7 @@
 ---
+title: "Referensi Regulasi"
 outline: deep
+description: "Daftar regulasi resmi, undang-undang, keputusan menteri kesehatan (KMK 62/2026), dan dasar hukum akreditasi klinik yang berlaku aktif di Indonesia saat ini."
 
 ---
 
