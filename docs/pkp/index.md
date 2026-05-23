@@ -6,7 +6,7 @@ title: 3. PKP
 :::code-group
 
 ``` js [Nilai]
-PMKP = 180 
+PKP = 670
 ```
 
 ``` ts [Standar]
