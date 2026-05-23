@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Akreditasi Klinik
+title: "Home - Akreditasi Klinik"
 hero:
   name: "Akreditasi Klinik"
   text: "Dokumen referensi "
@@ -25,5 +25,7 @@ features:
     details: Dalam memberikan pelayanan dan asuhan pada pasien, klinik melaksanakan program Peningkatan Mutu dan Keselamatan Pasien.
   - title: Penyelenggaraan Kesehatan Perseorangan
     details: Pelayanan yang dilakukan di klinik meliputi pelayanan preventif, promotif, kuratif dan rehabilitatif.
+description: "Platform referensi digital persiapan akreditasi Klinik Pratama dan Utama lengkap dengan instrumen TKK, PMKP, PKP, dan 25 template dokumen Word siap pakai."
+
 ---
 
