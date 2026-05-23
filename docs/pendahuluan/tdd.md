@@ -7,10 +7,12 @@ description: "Penjelasan kriteria kelulusan akreditasi klinik: Tidak Dapat Diter
 # Standar dan Elemen Penilaian yang Tidak Dapat Diterapkan (TDD)
 
 ## BAB II. PENINGKATAN MUTU DAN KESELAMATAN PASIEN
+<a id="pmkp-2-ep-4"></a>
 1. PMKP 2 ep 4: Penandaan sisi operasi/tindakan medis secara konsisten oleh pemberi pelayanan yang akan melakukan tindakan sesuai kebijakan dan prosedur yang ditetapkan yang didokumentasikan di rekam medis pasien. 
     :::tip Keterangan
     TDD pada Klinik yang tidak melaksanakan operasi/tindakan medis sehingga tidak menjalankan penandaan sisi operasi/tindakan medis. 
     :::
+<a id="pmkp-2-ep-5"></a>
 2. PMKP 2 ep 5 Tersedia bukti pelaksanaan Surgical Safety Checklist yang didokumentasikan di rekam medis.
     :::tip Keterangan
     TDD pada Klinik yang tidak melaksanakan operasi. 
@@ -18,138 +20,172 @@ description: "Penjelasan kriteria kelulusan akreditasi klinik: Tidak Dapat Diter
 
 
 ## BAB III. PENYELENGGARAAN KESEHATAN PERSEORANGAN
+<a id="pkp-4-ep-3"></a>
 1. PKP 4 ep 3 Kajian ulang dibuat dalam bentuk CPPT dan terdokumentasi di rekam medis 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak ada/ditemukan pasien dengan kunjungan ulang (kontrol). 
     :::
+<a id="pkp-8-ep-1"></a>
 2. PKP 8 ep 1 Klinik menetapkan prosedur pelayanan anestesi dan bedah sesuai kebutuhan. 
     :::tip Keterangan
     TDD pada Klinik yang tidak melakukan tindakan anestesi dan bedah. 
     :::
+<a id="pkp-8-ep-2"></a>
 3. PKP 8 ep 2 Pelayanan anestesi dan bedah dilakukan oleh tenaga medis yang kompeten sesuai dengan ketentuan peraturan perundang-undangan. 
     :::tip Keterangan
     TDD pada Klinik yang tidak melakukan tindakan anestesi dan bedah. 
     :::
+<a id="pkp-8-ep-3"></a>
 4. PKP 8 ep 3 Jenis, dosis dan teknik anestesi dan pemantauan status fisiologi pasien selama pemberian anestesi oleh petugas dicatat dalam rekam medis pasien.
     :::tip Keterangan
     TDD pada Klinik yang tidak melakukan tindakan anestesi dan bedah. 
     :::
+<a id="pkp-8-ep-4"></a>
 5. PKP 8 ep 4 Ada bukti pelaksanaan kajian pra bedah. 
     :::tip Keterangan
     TDD pada Klinik yang tidak melakukan tindakan anestesi dan bedah. 
     :::
+<a id="pkp-8-ep-5"></a>
 6. PKP 8 ep 5 Ada bukti pelaksanaan kajian pra anestesi. 
     :::tip Keterangan
     TDD pada Klinik yang tidak melakukan tindakan anestesi dan bedah. 
    :::
+<a id="pkp-8-ep-6"></a>
 7.  PKP 8 ep 6 Ada bukti pemantauan dan evaluasi paska anestesi dan bedah. 
     :::tip Keterangan
     TDD pada Klinik yang tidak melakukan tindakan anestesi dan bedah. 
     :::
+<a id="pkp-9-ep-1"></a>
 8. PKP 9 ep 1 Asuhan gizi dilakukan oleh petugas yang berkompeten sesuai dengan ketentuan peraturan perundang- undangan. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menangani kasus gizi. 
     :::
+<a id="pkp-9-ep-2"></a>
 9. PKP 9 ep 2 Disusun rencana asuhan gizi berdasarkan kajian kebutuhan gizi pada pasien sesuai dengan kondisi kesehatan dan kebutuhan pasien. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menangani kasus gizi. 
     :::
+<a id="pkp-9-ep-3"></a>
 10. PKP 9 ep 3 Distribusi dan pemberian makanan dilakukan sesuai jadwaldan pemesanan dan didokumentasikan. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan. 
     :::
+<a id="pkp-9-ep-4"></a>
 11. PKP 9 ep 4 Pasien dan/atau keluarga diberi edukasi tentang pembatasan diet pasien dan keamanan atau kebersihan makanan. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menangani kasus gizi. 
     :::
+<a id="pkp-10-ep-2"></a>
 12. PKP 10 ep 2 Ada bukti ringkasan pulang pasien dalam rekam medis. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan. 
     :::
+<a id="pkp-11-ep-4"></a>
 13. PKP 11 ep 4 Ada sarana transportasi rujukan yang memenuhi syarat. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan. 
     :::
+<a id="pkp-13-ep-1"></a>
 14. PKP 13 ep 1 Ada penetapan jenis-jenis pelayanan laboratorium yang . 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak pelayanan laboratorium. Jika Klinik melakukan Point Care Testing (POCT), EP ini tidak TDD.
     :::
+<a id="pkp-13-ep-2"></a>
 15. PKP 13 ep 2 Terdapat Penanggung Jawab Laboratorium sesuai perundang-undangan yang berlaku. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan laboratorium. Jika Klinik melakukan Point of Care Testing (POCT), EP ini tidak TDD.
     :::
+<a id="pkp-13-ep-3"></a>
 16. PKP 13 ep 3 Klinik menetapkan rentang nilai normal untuk setiap jenis pemeriksaan yang disediakan. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan laboratorium. Jika Klinik melakukan Point of Care Testing (POCT), EP ini tidak TDD.
     :::
+<a id="pkp-13-ep-4"></a>
 17. PKP 13 ep 4 Ada bukti reagensia esensial dan bahan lain tersedia sesuai dengan jenis pelayanan yang ditetapkan, pelabelan dan penyimpanannya. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan laboratorium. Jika Klinik melakukan Point of Care Testing (POCT), EP ini tidak TDD.
     :::
+<a id="pkp-13-ep-5"></a>
 18. PKP 13 ep 5 Ada prosedur pelaporan, pencatatan dan tindak lanjut hasil laboratorium kritis. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan laboratorium. Jika Klinik melakukan Point of Care Testing (POCT), EP ini tidak TDD. 
     :::
+<a id="pkp-13-ep-7"></a>
 19. PKP 13 ep 7 Ada bukti pelaksanaan Pemantapan Mutu Internal (PMI) dan Pemantapan Mutu Eksternal (PME) secara berkala. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan laboratorium. Jika Klinik melakukan Point of Care Testing (POCT), PMI dan PME tetap dilaksanakan dan dinilai. 
     :::
+<a id="pkp-14-ep-1"></a>
 20. PKP 14 ep 1 Klinik menerapkan prosedur pelayanan radiologi. 
     :::tip Keterangan
     TDD pada Klinik yang tidak menyelenggarakan pelayanan radiologi.  
     :::
+<a id="pkp-14-ep-2"></a>
 21. PKP 14 ep 2 Ada bukti pelayanan radiologi sesuai dengan prosedur yang ada termasuk kepatuhan terhadap manajemen keamanan radiasi. 
     :::tip Keterangan
     TDD pada Klinik yang tidak menyelenggarakan pelayanan radiologi. 
     :::
+<a id="pkp-15-ep-1"></a>
 22. PKP 15 ep 1 Tersedia bukti pengelolaan dan pelayanan sediaan farmasi BMHP dan alat kesehatan oleh tenaga kefarmasian sesuai dengan ketentuan peraturan perundang-undangan. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan. 
     :::
+<a id="pkp-15-ep-2"></a>
 23. PKP 15 ep 2 Tersedia daftar formularium obat klinik. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-3"></a>
 24. PKP 15 ep 3 Ada kebijakan dan atau prosedur pengadaan obat sesuai dengan regulasi. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-4"></a>
 25. PKP 15 ep 4 Tersedia bukti dilakukan pengkajian resep dan pemberian obat dengan benar pada setiap pelayanan pemberian obat. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-5"></a>
 26. PKP 15 ep 5 Tersedia bukti pemberian informasi obat dan konseling oleh Apoteker. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-6"></a>
 27. PKP 15 ep 6 Tersedia bukti rekonsiliasi obat pada pelayanan rawat inap sesuai dengan ketentuan peraturan perundang-undangan. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan. 
     :::
+<a id="pkp-15-ep-7"></a>
 28. PKP 15 ep 7 Tersedia obat emergensi pada unit-unit dimana diperlukan, dan dapat diakses untuk memenuhi kebutuhan yang bersifat emergensi, dipantau, dan diganti tepat waktu setelah digunakan atau bila kadaluarsa. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-8"></a>
 29. PKP 15 ep 8 Tersedia bukti penyimpanan dan pelaporan obat  narkotika serta psikotropika sesuai dengan regulasi. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-9"></a>
 30. PKP 15 ep 9 Tersedia bukti penyimpanan obat termasuk obat high alert yang baik, benar dan aman sesuai regulasi. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-10"></a>
 31. PKP 15 ep 10 Tersedia kebijakan dan atau prosedur penanganan obat kadaluarsa/rusak. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-11"></a>
 32. PKP 15 ep 11 Terdapat pencatatan dan pelaporan MESO/Monitoring Efek Samping Obat. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-12"></a>
 33. PKP 15 ep 12 Ada kebijakan dan atau prosedur pemantauan dan pelaporan medication error. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
+<a id="pkp-15-ep-13"></a>
 34. PKP 15 ep 13 Dalam hal klinik tidak memiliki apoteker, sebagai penanggung jawab pelayanan kefarmasian, ada bukti bahwa klinik hanya mengelola obat darurat medis sesuai dengan ketentuan peraturan perundang- undangan. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang menyelenggarakan pelayanan kefarmasian dan Klinik Rawat Inap. 
