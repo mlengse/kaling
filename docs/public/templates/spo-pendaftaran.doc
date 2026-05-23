@@ -1,0 +1,162 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>SPO Pendaftaran Pasien</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">STANDAR PROSEDUR OPERASIONAL (SPO)</div>
+    <div class="text-center" style="font-weight: bold; font-size: 11pt; margin-bottom: 15px;">PENDAFTARAN PASIEN</div>
+    
+    <table>
+        <tr>
+            <td style="width: 25%; font-weight: bold;">No. Dokumen</td>
+            <td style="width: 25%;">010/SPO/ADM/2026</td>
+            <td style="width: 25%; font-weight: bold;">No. Revisi</td>
+            <td style="width: 25%;">00</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Tanggal Terbit</td>
+            <td>2 Januari 2026</td>
+            <td style="font-weight: bold;">Halaman</td>
+            <td>1 dari 2</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="background-color:#f2f2f2; text-align:center; font-weight:bold; padding:3px;">KLINIK KELUARGA SEHAT</td>
+        </tr>
+    </table>
+    
+    <table style="margin-top: 10px;">
+        <tr>
+            <td style="width: 20%; font-weight: bold;">Pengertian</td>
+            <td>Proses penerimaan, pencatatan data identitas sosial, dan pendaftaran pasien yang datang ke Klinik untuk mendapatkan pelayanan medis (rawat jalan, UGD, atau penunjang).</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Tujuan</td>
+            <td>Sebagai acuan penerapan langkah-langkah dalam melaksanakan pendaftaran pasien secara tertib, cepat, dan akurat guna mendukung kelancaran proses asuhan terintegrasi.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Kebijakan</td>
+            <td>Surat Kebijakan Pendaftaran Pasien dan Hak Kewajiban Nomor: 005/SK/DIR/2026.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Referensi</td>
+            <td>1. Peraturan Menteri Kesehatan RI Nomor 34 Tahun 2022 tentang Akreditasi Klinik.<br>
+            2. Peraturan Menteri Kesehatan RI Nomor 24 Tahun 2022 tentang Rekam Medis.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Prosedur / Langkah-langkah</td>
+            <td>
+                1. <b>Salam dan Sapa:</b> Petugas admisi menyapa pasien/keluarga yang datang dengan senyum, sapa, dan salam.<br>
+                2. <b>Skrining Awal:</b> Petugas memastikan pasien tidak dalam kondisi darurat medis (jika darurat, langsung arahkan ke Ruang Tindakan/UGD).<br>
+                3. <b>Identifikasi Pasien:</b> Petugas menanyakan apakah pasien sudah pernah berkunjung sebelumnya (Pasien Lama atau Baru).<br>
+                4. <b>Pasien Baru:</b><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;a. Petugas meminta kartu identitas resmi (KTP/KIA/Paspor) dan kartu asuransi (jika ada).<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;b. Petugas meminta pasien/keluarga mengisi Formulir Data Sosial Pasien Baru.<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;c. Petugas menginput data sosial pasien ke SIM-Klinik secara lengkap dan membuat nomor Rekam Medis (RM) baru.<br>
+                5. <b>Pasien Lama:</b><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;a. Petugas meminta Kartu Identitas Berobat (KIB) atau KTP pasien.<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;b. Petugas mencari data Rekam Medis pasien pada sistem komputer SIM-Klinik.<br>
+                6. <b>Penjelasan Hak & Kewajiban:</b> Petugas memberikan selebaran/menjelaskan hak dan kewajiban pasien kepada pasien baru, serta meminta persetujuan umum (*General Consent*).<br>
+                7. <b>Tentukan Poli Tujuan:</b> Petugas menanyakan keluhan utama untuk menentukan PPA/Poli tujuan (Poli Umum, Poli Gigi, Poli Spesialis).<br>
+                8. <b>Pemberian Antrean:</b> Petugas mencetak nomor antrean poli dan menyerahkannya kepada pasien.<br>
+                9. <b>Ruang Tunggu:</b> Petugas mempersilakan pasien untuk menunggu di area ruang tunggu poli yang dituju.<br>
+                10. <b>Distribusi RM:</b> Petugas admisi menyiapkan rekam medis fisik (jika manual) atau meneruskan rekam medis elektronik ke komputer poli tujuan.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Unit Terkait</td>
+            <td>1. Unit Pendaftaran / Admisi<br>
+            2. Unit Rekam Medis<br>
+            3. Poli Umum / Gigi / Spesialis<br>
+            4. Ruang Tindakan / UGD</td>
+        </tr>
+    </table>
+
+</body>
+</html>
