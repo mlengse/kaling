@@ -1,0 +1,139 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>SPO Anestesi dan Kajian Bedah Minor</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">STANDAR PROSEDUR OPERASIONAL (SPO) ANESTESI LOKAL DAN BEDAH MINOR</div>
+    
+    <div class="section-title">A. TAHAPAN PROSEDUR ANESTESI LOKAL DAN BEDAH MINOR</div>
+    <p>1. **Kajian Pra-Bedah & Pra-Anestesi:** Lakukan anamnesis alergi obat anestesi (lidokain), ukur TTV (tensi wajib &lt; 140/90 mmHg), periksa riwayat perdarahan/koagulopati.<br>
+    2. **Informed Consent:** Berikan penjelasan risiko nyeri pasca bedah, perdarahan, infeksi sekunder, tanda tangani formulir persetujuan medis.<br>
+    3. **Penandaan Lokasi (Marking):** Tandai sisi operasi menggunakan spidol penanda kulit tahan air bersama pasien.<br>
+    4. **Infiltrasi Anestesi Lokal:** Lakukan penyuntikan Lidocain 2% subkutis di sekitar tepi luka secara melingkar (infiltrasi). Tunggu 3-5 menit hingga baal.<br>
+    5. **Tindakan Bedah Kecil:** Lakukan pembersihan debridement luka dengan NaCl, lakukan penjahitan (hecting) kulit/subkutis secara steril.<br>
+    6. **Edukasi & Pemantauan:** Pantau tanda vital pasca tindakan, berikan resep analgetik/antibiotik, edukasi luka tidak boleh terkena air kotor.</p>
+    
+    <div class="section-title">B. FORMULIR KAJIAN PRA-ANESTESI & PRA-BEDAH TERINTEGRASI</div>
+    <p><b>Nama Pasien:</b> ........................................................ &nbsp;&nbsp;&nbsp;&nbsp; <b>No. Rekam Medis:</b> ..............................................<br>
+    <b>Tgl / Jam Tindakan:</b> ................................................ &nbsp;&nbsp;&nbsp;&nbsp; <b>Jenis Tindakan Bedah:</b> ..........................................</p>
+    
+    <table>
+        <tr>
+            <th colspan="2" style="background-color:#eaeaea; font-weight:bold;">I. KAJIAN PRA-ANESTESI (LOKAL)</th>
+            <th colspan="2" style="background-color:#eaeaea; font-weight:bold;">II. KAJIAN PRA-BEDAH (MINOR)</th>
+        </tr>
+        <tr>
+            <td style="width:25%;"><b>Tanda-Tanda Vital</b></td>
+            <td style="width:25%;">TD: ........ mmHg &nbsp;&nbsp; Nadi: ........ x/m<br>Suhu: ........ C &nbsp;&nbsp; Napas: ........ x/m</td>
+            <td style="width:25%;"><b>Diagnosis Pra-Bedah</b></td>
+            <td style="width:25%;">....................................................................</td>
+        </tr>
+        <tr>
+            <td><b>Riwayat Alergi Obat</b></td>
+            <td>[ &nbsp; ] Tidak Ada<br>[ &nbsp; ] Ada, sebutkan: .........................</td>
+            <td><b>Rencana Tindakan Bedah</b></td>
+            <td>....................................................................</td>
+        </tr>
+        <tr>
+            <td><b>Riwayat Penyakit</b></td>
+            <td>[ &nbsp; ] DM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ &nbsp; ] Asma<br>[ &nbsp; ] Hipertensi &nbsp;&nbsp; [ &nbsp; ] Jantung</td>
+            <td><b>Sisi Penandaan Operasi</b></td>
+            <td>[ &nbsp; ] Sudah ditandai (O/X spidol)<br>[ &nbsp; ] Tidak diperlukan</td>
+        </tr>
+        <tr>
+            <td><b>Status Fisiologis Pra-Tindakan</b></td>
+            <td>[ &nbsp; ] ASA I (Normal)<br>[ &nbsp; ] ASA II (Ringan)</td>
+            <td><b>Jenis Anestesi Direncanakan</b></td>
+            <td>Lidocain 2% secara infiltrasi lokal</td>
+        </tr>
+    </table>
+
+</body>
+</html>
