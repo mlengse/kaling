@@ -1,0 +1,154 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>SPO Bedah Minor dan WHO Surgical Safety Checklist</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">WHO SURGICAL SAFETY CHECKLIST & PENANDAAN LOKASI OPERASI</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 20px;">DIAPLIKASIKAN UNTUK TINDAKAN BEDAH MINOR KLINIK</div>
+    
+    <div class="section-title">A. SPO PENANDAAN LOKASI TINDAKAN (SURGICAL SITE MARKING)</div>
+    <p>1. Penandaan sisi operasi wajib dilakukan untuk seluruh tindakan medis yang memiliki sisi kanan/kiri, beberapa struktur (jari tangan/kaki), atau tingkatan.<br>
+    2. Penandaan dilakukan oleh dokter pemberi asuhan yang akan mengeksekusi langsung tindakan medis tersebut.<br>
+    3. Penandaan dilakukan bersama pasien/keluarga dalam kondisi sadar sebelum dibawa ke ruang tindakan bedah.<br>
+    4. Gunakan penanda spidol dermatografis tahan air berwarna biru/hitam berupa simbol **lingkaran (O)** atau **silang (X)** yang jelas pada daerah sayatan kulit.</p>
+    
+    <div class="section-title">B. FORMULIR CHECKLIST KESELAMATAN PASIEN BEDAH MINOR (ADAPTASI WHO)</div>
+    <p><b>Nama Pasien:</b> ........................................................ &nbsp;&nbsp;&nbsp;&nbsp; <b>No. RM:</b> ..............................................<br>
+    <b>Tindakan Bedah:</b> ........................................................ &nbsp;&nbsp;&nbsp;&nbsp; <b>Dokter Operator:</b> ............................................</p>
+    
+    <table>
+        <tr>
+            <th style="width: 33%; background-color:#ffcccc;">SIGN IN<br>(Sebelum Induksi Anestesi Lokal)</th>
+            <th style="width: 34%; background-color:#ffe5cc;">TIME OUT<br>(Sebelum Insisi Kulit Mulai)</th>
+            <th style="width: 33%; background-color:#ccffcc;">SIGN OUT<br>(Sebelum Pasien Keluar Ruang Bedah)</th>
+        </tr>
+        <tr>
+            <td>
+                <b>[ &nbsp; ] Konfirmasi Pasien:</b><br>
+                - Identitas (Nama & No RM) sesuai.<br>
+                - Sisi lokasi operasi benar.<br>
+                - Prosedur tindakan dipahami.<br>
+                - Informed Consent ditandatangani.<br><br>
+                <b>[ &nbsp; ] Penandaan Sisi Lokasi:</b><br>
+                - [ &nbsp; ] Ya, tanda spidol terverifikasi.<br>
+                - [ &nbsp; ] Tidak diperlukan.<br><br>
+                <b>[ &nbsp; ] Mesin & Obat Anestesi:</b><br>
+                - Lidocain 2% siap.<br>
+                - Oksimetri terpasang aktif.
+            </td>
+            <td>
+                <b>[ &nbsp; ] Konfirmasi Anggota Tim Bedah:</b><br>
+                - Seluruh tim medis menyebutkan nama dan peran masing-masing.<br><br>
+                <b>[ &nbsp; ] Verbal Konfirmasi (Time Out):</b><br>
+                - Nama Pasien: .......................................<br>
+                - Prosedur Tindakan: ..........................<br>
+                - Lokasi Sisi Sayatan: .........................<br><br>
+                <b>[ &nbsp; ] Antisipasi Kejadian Kritis:</b><br>
+                - <i>Dokter:</i> Langkah antisipasi perdarahan siap.<br>
+                - <i>Perawat:</i> Sterilitas alat bedah set terverifikasi (OK).
+            </td>
+            <td>
+                <b>[ &nbsp; ] Konfirmasi Verbal Perawat/Dokter:</b><br>
+                - [ &nbsp; ] Prosedur tercatat secara tertulis.<br>
+                - [ &nbsp; ] Hitungan Instrumen, Jarum Hecting, dan Kasa Medis: **LENGKAP & PAS** (tidak ada tertinggal).<br>
+                - [ &nbsp; ] Spesimen patologi anatomi telah dilabeli identitas benar.<br><br>
+                <b>[ &nbsp; ] Instruksi Pemulihan (Post-Op):</b><br>
+                - Dokter menuliskan instruksi pasca bedah, manajemen nyeri, dan jadwal kontrol di lembar CPPT/Resume.
+            </td>
+        </tr>
+        <tr>
+            <td class="text-center"><b>Tanda Tangan Perawat</b><br><br><br>...........................................</td>
+            <td class="text-center"><b>Tanda Tangan Dokter</b><br><br><br>...........................................</td>
+            <td class="text-center"><b>Tanda Tangan Dokter</b><br><br><br>...........................................</td>
+        </tr>
+    </table>
+
+</body>
+</html>
