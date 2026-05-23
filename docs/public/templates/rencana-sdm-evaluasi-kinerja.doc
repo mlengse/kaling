@@ -1,0 +1,283 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Rencana SDM dan Evaluasi Kinerja</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">DOKUMEN ANALISIS KEBUTUHAN SDM DAN EVALUASI KINERJA BERKALA</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 20px;">KLINIK KELUARGA SEHAT - TAHUN 2026</div>
+    
+    <div class="section-title">A. ANALISIS BEBAN KERJA (ABK) & REGULASI KETENAGAAN KLINIK</div>
+    <p><b>PERSYARATAN MUTLAK PENANGGUNG JAWAB KLINIK (PerMenKes 14/2021):</b><br>
+    1. Penanggung Jawab Klinik Pratama wajib merupakan Dokter, Dokter Gigi, atau Dokter Spesialis di bidang layanan primer.<br>
+    2. Penanggung Jawab Klinik Utama wajib merupakan Dokter, Dokter Gigi, Dokter Spesialis, atau Dokter Gigi Spesialis.<br>
+    3. Penanggung Jawab wajib memiliki <b>Surat Izin Praktik (SIP) yang aktif di klinik bersangkutan</b>, dapat merangkap sebagai pemberi layanan, dan <b>hanya diizinkan menjadi Penanggung Jawab untuk 1 (satu) klinik saja</b> (tidak boleh merangkap di fasyankes lain).</p>
+    
+    <p>Perencanaan ketenagaan disusun berdasarkan jenis layanan yang diselenggarakan, jam buka operasional klinik, serta analisis beban kerja harian rata-rata. Berikut tabel kebutuhan riil di Klinik Keluarga Sehat:</p>
+    
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Nama Jabatan / Profesi</th>
+            <th>Kualifikasi Pendidikan</th>
+            <th>Kebutuhan (Riil ABK)</th>
+            <th>Ketersediaan (Aktif)</th>
+            <th>Kesenjangan (Gap)</th>
+            <th>Rencana Tindak Lanjut</th>
+        </tr>
+        <tr>
+            <td class="text-center">1</td>
+            <td>Dokter Umum / Penanggung Jawab</td>
+            <td>Profesi Dokter + SIP + STR</td>
+            <td class="text-center">3 Orang</td>
+            <td class="text-center">3 Orang</td>
+            <td class="text-center">0</td>
+            <td>Mempertahankan & mengirim ke pelatihan ACLS berkala.</td>
+        </tr>
+        <tr>
+            <td class="text-center">2</td>
+            <td>Dokter Gigi</td>
+            <td>Profesi Dokter Gigi + SIP + STR</td>
+            <td class="text-center">2 Orang</td>
+            <td class="text-center">1 Orang</td>
+            <td class="text-center">-1</td>
+            <td>Melakukan rekrutmen 1 Dokter Gigi tambahan kontrak paruh waktu.</td>
+        </tr>
+        <tr>
+            <td class="text-center">3</td>
+            <td>Perawat / Bidan</td>
+            <td>D3/S1 Kep/Keb + SIPP/SIPB + STR</td>
+            <td class="text-center">6 Orang</td>
+            <td class="text-center">5 Orang</td>
+            <td class="text-center">-1</td>
+            <td>Rekrutmen 1 Perawat baru, diutamakan bersertifikat BTCLS.</td>
+        </tr>
+        <tr>
+            <td class="text-center">4</td>
+            <td>Apoteker</td>
+            <td>Profesi Apoteker + SIPA + STRA</td>
+            <td class="text-center">1 Orang</td>
+            <td class="text-center">1 Orang</td>
+            <td class="text-center">0</td>
+            <td>Menambah asisten tenaga teknis kefarmasian (TTK).</td>
+        </tr>
+        <tr>
+            <td class="text-center">5</td>
+            <td>Analis Laboratorium</td>
+            <td>D3 Analis Kesehatan + SIP + STR</td>
+            <td class="text-center">1 Orang</td>
+            <td class="text-center">1 Orang</td>
+            <td class="text-center">0</td>
+            <td>Pelatihan PME & PMI internal.</td>
+        </tr>
+    </table>
+
+    <div style="page-break-before: always;"></div>
+    
+    <div class="section-title">B. FORM PENILAIAN KINERJA PEGAWAI BULANAN / TAHUNAN</div>
+    <p><b>Nama Pegawai:</b> ........................................................ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Unit Kerja:</b> ..............................................<br>
+    <b>Jabatan / Profesi:</b> ................................................. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Periode Evaluasi:</b> Tahun 2026</p>
+    
+    <table>
+        <tr>
+            <th style="width: 5%;">No</th>
+            <th style="width: 30%;">Aspek Penilaian (Indikator Kinerja)</th>
+            <th style="width: 45%;">Definisi Operasional / Standar Kerja</th>
+            <th style="width: 10%;">Bobot (%)</th>
+            <th style="width: 10%;">Skor (1-5)</th>
+        </tr>
+        <tr>
+            <td class="text-center">1</td>
+            <td><b>Kepatuhan SPO Pelayanan</b></td>
+            <td>Melaksanakan asuhan klinis/administratif sesuai alur SPO klinis/non-klinis.</td>
+            <td class="text-center">30%</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">2</td>
+            <td><b>Disiplin & Kehadiran</b></td>
+            <td>Kehadiran masuk kerja tepat waktu minimal 95% dalam sebulan.</td>
+            <td class="text-center">20%</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">3</td>
+            <td><b>Mutu & Keselamatan Pasien</b></td>
+            <td>Melakukan 6 langkah cuci tangan, identifikasi pasien 2 cara, nihil insiden KTD.</td>
+            <td class="text-center">20%</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">4</td>
+            <td><b>Kerja Sama & Komunikasi</b></td>
+            <td>Menggunakan SBAR/TBAK saat serah terima pasien/pelaporan, ramah 5S.</td>
+            <td class="text-center">15%</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="text-center">5</td>
+            <td><b>Pengembangan Kompetensi</b></td>
+            <td>Aktif mengikuti sosialisasi internal, seminar eksternal, atau orientasi staf.</td>
+            <td class="text-center">15%</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th colspan="3" class="text-right">TOTAL SKOR AKHIR</th>
+            <td class="text-center">100%</td>
+            <td></td>
+        </tr>
+    </table>
+    <p><b>Rekomendasi Pimpinan:</b> Perpanjang Kontrak / Kenaikan Golongan / Pelatihan Tambahan / Teguran Lisan / Tertulis.</p>
+    
+    <div style="page-break-before: always;"></div>
+    
+    <div class="section-title">C. CHECKLIST KEUTUHAN FILE KEPEGAWAIAN INDIVIDU</div>
+    <p>Setiap staf wajib memiliki file kepegawaian fisik dan digital yang diperbarui secara berkala minimal setahun sekali. Gunakan checklist berikut:</p>
+    
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Jenis Dokumen Kepegawaian</th>
+            <th>Ada (V)</th>
+            <th>Tidak (X)</th>
+            <th>Masa Berlaku / Keterangan</th>
+        </tr>
+        <tr>
+            <td class="text-center">1</td>
+            <td>Salinan Ijazah Terakhir dan Transkrip Nilai (legalisir)</td>
+            <td></td>
+            <td></td>
+            <td>Seumur Hidup</td>
+        </tr>
+        <tr>
+            <td class="text-center">2</td>
+            <td>Surat Tanda Registrasi (STR) Aktif bagi Nakes</td>
+            <td></td>
+            <td></td>
+            <td>Masa Berlaku: .......................................</td>
+        </tr>
+        <tr>
+            <td class="text-center">3</td>
+            <td>Surat Izin Praktik (SIP) Aktif di Klinik ini</td>
+            <td></td>
+            <td></td>
+            <td>Masa Berlaku: .......................................</td>
+        </tr>
+        <tr>
+            <td class="text-center">4</td>
+            <td>Uraian Tugas Tertulis (ditandatangani Kepala Klinik & staf)</td>
+            <td></td>
+            <td></td>
+            <td>Terbaru Tahun 2026</td>
+        </tr>
+        <tr>
+            <td class="text-center">5</td>
+            <td>Sertifikat Pelatihan Kompetensi (BTCLS, ACLS, PPI, MFK, RME, APAR)</td>
+            <td></td>
+            <td></td>
+            <td>Terlampir minimal 2 sertifikat terbaru</td>
+        </tr>
+        <tr>
+            <td class="text-center">6</td>
+            <td>Hasil Penilaian Kinerja Karyawan berkala</td>
+            <td></td>
+            <td></td>
+            <td>Tahun Buku 2025/2026</td>
+        </tr>
+        <tr>
+            <td class="text-center">7</td>
+            <td>Surat Keterangan Sehat Fisik & Mental Bebas Narkoba</td>
+            <td></td>
+            <td></td>
+            <td>Diperbarui setiap 2 tahun sekali</td>
+        </tr>
+    </table>
+
+</body>
+</html>
