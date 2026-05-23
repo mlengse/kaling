@@ -1,0 +1,172 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Formulir Obat dan Pelayanan Kefarmasian Lengkap</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">DOKUMEN INTEGRASI PELAYANAN KEFARMASIAN LENGKAP</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 20px;">KLINIK KELUARGA SEHAT - TAHUN 2026</div>
+    
+    <div class="section-title">A. FORMULIR OBAT KLINIK (CONTOH DAFTAR OBAT AKTIF)</div>
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Nama Generik Obat</th>
+            <th>Kekuatan Sediaan</th>
+            <th>Rute Pemberian</th>
+            <th>Kategori Obat (LASA / High Alert / Regular)</th>
+            <th>Batas Stok Maksimal</th>
+        </tr>
+        <tr>
+            <td class="text-center">1</td>
+            <td><b>Lidocain Injeksi 2%</b></td>
+            <td>2% ampul @ 2ml</td>
+            <td>Infiltrasi Subkutis</td>
+            <td class="text-center" style="background-color:#ffe5cc; font-weight:bold;">HIGH ALERT</td>
+            <td>50 Ampul</td>
+        </tr>
+        <tr>
+            <td class="text-center">2</td>
+            <td><b>Epinefrin Injeksi (Adrenalin)</b></td>
+            <td>1 mg/ml ampul</td>
+            <td>Intramuskular / IV</td>
+            <td class="text-center" style="background-color:#ffcccc; font-weight:bold;">HIGH ALERT (EMERGENCY)</td>
+            <td>10 Ampul</td>
+        </tr>
+        <tr>
+            <td class="text-center">3</td>
+            <td><b>Amlodipin 5 mg & 10 mg</b></td>
+            <td>Tablet 5mg/10mg</td>
+            <td>Oral</td>
+            <td class="text-center" style="background-color:#ffffcc; font-weight:bold;">LASA (Look Alike)</td>
+            <td>200 Tablet</td>
+        </tr>
+        <tr>
+            <td class="text-center">4</td>
+            <td><b>Paracetamol 500 mg</b></td>
+            <td>Tablet 500 mg</td>
+            <td>Oral</td>
+            <td class="text-center">Regular</td>
+            <td>500 Tablet</td>
+        </tr>
+    </table>
+    
+    <div class="section-title">B. FORM LEMBAR REKONSILIASI OBAT RAWAT INAP</div>
+    <p>Wajib diisi dalam 24 jam pertama saat pasien dipindahkan antar unit / masuk rawat inap:</p>
+    <table>
+        <tr>
+            <th>Nama Obat dari Rumah / Luar</th>
+            <th>Dosis & Rute</th>
+            <th>Frekuensi Minum</th>
+            <th>Tgl Mulai Minum</th>
+            <th>Tindak Lanjut DPJP (Lanjutkan / Stop / Ubah Dosis)</th>
+            <th>Nama Obat Baru Klinik (Substitusi)</th>
+            <th>Paraf Apoteker</th>
+        </tr>
+        <tr>
+            <td>Amlodipin 10 mg</td>
+            <td>10 mg / Oral</td>
+            <td>1 x sehari</td>
+            <td>10/12/2025</td>
+            <td class="text-center" style="font-weight:bold; color:blue;">LANJUTKAN</td>
+            <td>Amlodipin 10 mg (Klinik)</td>
+            <td class="text-center"><br>Apt. Budi</td>
+        </tr>
+    </table>
+    
+    <div class="section-title">C. FORMULIR PELAPORAN EFEK SAMPING OBAT (MESO / KARTU KUNING)</div>
+    <p><b>Nama Pasien:</b> ........................................................ &nbsp;&nbsp;&nbsp;&nbsp; <b>No. RM:</b> .....................................................<br>
+    <b>Gejala Efek Samping Timbul:</b> ......................................................................................................................<br>
+    <b>Nama Obat Diduga Kuat Penyebab:</b> ......................................................................................................................</p>
+    
+    <div class="section-title">D. BERITA ACARA PEMUSNAHAN OBAT KADALUARSA / RUSAK</div>
+    <p>Pada hari ini ................. Tanggal ................. Bulan ................. Tahun 2026, telah dilakukan pemusnahan obat kadaluarsa dan rusak milik Klinik Keluarga Sehat oleh Panitia Pemusnah Farmasi Klinik dengan cara dibakar/dilebur secara aman, disaksikan oleh Dinas Kesehatan setempat.</p>
+
+</body>
+</html>
