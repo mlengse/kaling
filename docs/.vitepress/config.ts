@@ -18,6 +18,7 @@ const sidebar = generateSidebar( {
   collapseDepth: 2,
   sortByFileName: ['pendahuluan', 'survei'],
   excludeFolders: ['examples'],
+  excludeFiles: ['404.md'],
   includeEmptyFolder: false,
   convertSameNameSubFileToGroupIndexPage: false,
   convertIndexSubFileToGroupIndexPage: true,
