@@ -1,6 +1,7 @@
 ---
 outline: deep
-title: 3. PKP
+title: "3. PKP"
+description: "Kumpulan standar instrumen akreditasi kelompok Penyelenggaraan Kesehatan Perseorangan (Bab III: PKP) lengkap dengan 15 standar klinis dan template dokumen."
 
 ---
 :::code-group
