@@ -1,5 +1,7 @@
 ---
-title: TDD
+title: "Kriteria TDD"
+description: "Penjelasan kriteria kelulusan akreditasi klinik: Tidak Dapat Diterapkan (TDD), Tidak Terpenuhi (TT), Terpenuhi Sebagian (TS), dan Terpenuhi Penuh (TP)."
+
 ---
 
 # Standar dan Elemen Penilaian yang Tidak Dapat Diterapkan (TDD)
