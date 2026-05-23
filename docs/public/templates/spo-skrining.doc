@@ -1,0 +1,162 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>SPO Skrining Pasien</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">STANDAR PROSEDUR OPERASIONAL (SPO)</div>
+    <div class="text-center" style="font-weight: bold; font-size: 11pt; margin-bottom: 15px;">SKRINING PASIEN</div>
+    
+    <table>
+        <tr>
+            <td style="width: 25%; font-weight: bold;">No. Dokumen</td>
+            <td style="width: 25%;">011/SPO/MED/2026</td>
+            <td style="width: 25%; font-weight: bold;">No. Revisi</td>
+            <td style="width: 25%;">00</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Tanggal Terbit</td>
+            <td>2 Januari 2026</td>
+            <td style="font-weight: bold;">Halaman</td>
+            <td>1 dari 2</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="background-color:#f2f2f2; text-align:center; font-weight:bold; padding:3px;">KLINIK KELUARGA SEHAT</td>
+        </tr>
+    </table>
+    
+    <table style="margin-top: 10px;">
+        <tr>
+            <td style="width: 20%; font-weight: bold;">Pengertian</td>
+            <td>Proses penyaringan awal secara cepat terhadap pasien saat kontak pertama kali di pintu masuk klinik, loket pendaftaran, atau UGD guna mengidentifikasi tingkat keparahan, kebutuhan medis, risiko penularan infeksi, dan risiko keselamatan lainnya.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Tujuan</td>
+            <td>1. Mengidentifikasi pasien dengan kondisi gawat darurat secara cepat agar segera mendapatkan tindakan.<br>
+            2. Menilai kesesuaian kebutuhan pasien dengan kemampuan pelayanan klinik.<br>
+            3. Mencegah penularan infeksi di ruang tunggu (skrining batuk/infeksius).<br>
+            4. Menjamin keselamatan pasien (skrining risiko jatuh).</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Kebijakan</td>
+            <td>Surat Keputusan Kepala Klinik Keluarga Sehat Nomor: 006/SK/DIR/2026 tentang Skrining Pasien dan Alur Pelayanan Klinis.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Referensi</td>
+            <td>1. Keputusan Menteri Kesehatan RI Nomor HK.01.07/MENKES/1983/2022 tentang Standar Akreditasi Klinik (PKP 3).<br>
+            2. PMK No. 47 Tahun 2018 tentang Pelayanan Kegawatdaruratan.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Prosedur / Langkah-langkah</td>
+            <td>
+                1. <b>Kontak Pertama:</b> Skrining dilakukan sejak kontak pertama kali pasien masuk ke klinik oleh petugas keamanan/penerima tamu atau perawat loket.<br>
+                2. <b>Skrining Kegawatdaruratan (Triase Visual):</b><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;a. Petugas memperhatikan kesadaran pasien, pola napas (sesak), adanya nyeri dada hebat, perdarahan hebat, atau cedera kepala.<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;b. Jika ditemukan tanda kegawatdaruratan, pasien segera dibawa ke Ruang Tindakan/UGD menggunakan kursi roda/tandu. Pendaftaran dapat diselesaikan kemudian oleh keluarga.<br>
+                3. <b>Skrining Risiko Jatuh:</b><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;a. Petugas memperhatikan cara berjalan pasien (limbung, tidak seimbang, menggunakan alat bantu).<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;b. Jika berisiko jatuh tinggi, pasangkan klip/gelang kuning (jika rawat inap) dan dampingi pasien menggunakan kursi roda.<br>
+                4. <b>Skrining Batuk & Isolasi:</b><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;a. Petugas menanyakan gejala batuk, sesak, atau demam.<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;b. Jika pasien batuk, petugas memberikan masker medis dan mengarahkan pasien ke ruang tunggu khusus batuk (area terpisah) untuk mencegah transmisi udara.<br>
+                5. <b>Skrining Kebutuhan Khusus:</b> Petugas mengidentifikasi jika pasien lansia, penyandang disabilitas, ibu hamil tua, atau anak-anak untuk diberikan prioritas antrean pendaftaran.<br>
+                6. <b>Dokumentasi:</b> Perawat mendokumentasikan hasil skrining awal pada formulir skrining di Rekam Medis pasien.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Unit Terkait</td>
+            <td>1. Penerima Tamu / Security / Front Office<br>
+            2. Unit Admisi / Pendaftaran<br>
+            3. Ruang Tindakan / UGD<br>
+            4. Poli Rawat Jalan</td>
+        </tr>
+    </table>
+
+</body>
+</html>
