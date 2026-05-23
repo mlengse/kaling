@@ -271,8 +271,10 @@ export default class VitePressSidebar {
           if (/^---$/.test(str)) {
             frontmatterStart = true;
           }
-          if (/^title: (.*)/.test(str) && frontmatterStart) {
-            str = str.replace('title: ', '');
+          if (/^title:\s*(.*)/.test(str) && frontmatterStart) {
+            str = str.replace(/^title:\s*/, '');
+            // Strip leading and trailing double or single quotes
+            str = str.replace(/^["'](.*)["']$/, '$1');
             return options.capitalizeFirst ? str.charAt(0).toUpperCase() + str.slice(1) : str;
           }
         }
