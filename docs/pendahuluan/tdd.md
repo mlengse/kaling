@@ -64,7 +64,7 @@ title: TDD
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan. 
     :::
-13. PKP 11 ep 4 Ada sarana rujukan yang syarat. transportasi memenuhi 
+13. PKP 11 ep 4 Ada sarana transportasi rujukan yang memenuhi syarat. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan. 
     :::
@@ -112,7 +112,7 @@ title: TDD
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
-25. PKP 15 ep 4 bukti dilakukan   resep dan  obat dengan pada setiap pelayanan pemberian obat. 
+25. PKP 15 ep 4 Tersedia bukti dilakukan pengkajian resep dan pemberian obat dengan benar pada setiap pelayanan pemberian obat. 
     :::tip Keterangan
     TDD pada Klinik Rawat Jalan yang tidak menyelenggarakan pelayanan kefarmasian. 
     :::
