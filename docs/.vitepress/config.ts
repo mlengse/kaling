@@ -26,7 +26,7 @@ const sidebar = generateSidebar( {
 export default defineConfig({
   lang: "id",
   title: "Akreditasi Klinik",
-  description: "Dokumen referensi persiapan akreditasi Klinik Dr. Ning Kaling",
+  description: "Dokumen referensi persiapan akreditasi Klinik Pratama dan Utama",
   cleanUrls: true,
   // viteNext: true,
   sitemap: {
