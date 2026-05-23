@@ -1,0 +1,127 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Program MFK dan Manajemen Risiko</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">PROGRAM KERJA MANAJEMEN FASILITAS DAN KESELAMATAN (MFK)</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 20px;">KLINIK KELUARGA SEHAT - TAHUN 2026</div>
+    
+    <div class="section-title">A. TUJUAN PROGRAM</div>
+    <p>Menjamin tersedianya fasilitas klinik yang aman, berfungsi dengan baik, suportif, serta meminimalkan risiko kecelakaan, infeksi, kebakaran, tumpahan bahan beracun, kegagalan utilitas, kerusakan alat medis, dan pencemaran lingkungan bagi pasien, keluarga, pengunjung, serta seluruh staf Klinik Keluarga Sehat.</p>
+    
+    <div class="section-title">B. IMPLEMENTASI 7 AREA PROGRAM MFK SESUAI STANDAR</div>
+    
+    <p><b>1. Keselamatan dan Keamanan Fasilitas</b><br>
+    - <b>Kegiatan:</b> Inspeksi berkala struktur fisik gedung (plafon bocor, lantai licin, tangga, pegangan tangan), pemeliharaan toilet pasien.<br>
+    - <b>Parameter Lingkungan:</b> Pemantauan suhu ruangan (standar 20-26C), kelembapan (40-60%), pencahayaan ruang tindakan (minimal 300 lux), tingkat kebisingan koridor/tunggu (maksimal 45-55 dBA) diukur periodik dengan alat ukur portabel terkalibrasi.<br>
+    - <b>Keamanan:</b> CCTV di titik rawan (loket obat, pintu keluar utama, koridor), penyediaan kartu pengenal staf, kartu akses rekam medis, patroli satpam malam.</p>
+    
+    <p><b>2. Bahan Berbahaya dan Beracun (B3) serta Limbah B3</b><br>
+    - <b>Kegiatan:</b> Daftar inventarisasi B3 di Laboratorium, Farmasi, dan ruang tindakan. Menyediakan MSDS (Material Safety Data Sheet) yang mudah diakses petugas. Menyediakan lemari penyimpanan B3 ber-ventilasi dan berlabel simbol bahaya. Menyediakan APD dan <i>Spill Kit B3</i> (serbuk gergaji/pasir, kantong kuning, sekop kecil). Pengumpulan limbah medis di TPS B3 berizin sementara sebelum diangkut rekanan berizin.</p>
+    
+    <p><b>3. Penanggulangan Bencana (Disaster Plan)</b><br>
+    - <b>Kegiatan:</b> Analisis risiko bencana. Menetapkan tim tanggap darurat (tim merah: pemadam, tim kuning: evakuasi pasien, tim hijau: penyelamat dokumen/aset). Rambu jalur evakuasi glow in the dark, penentuan Titik Kumpul (Assembly Point).</p>
+    
+    <p><b>4. Sistem Proteksi Kebakaran</b><br>
+    - <b>Kegiatan:</b> Penyediaan APAR jenis Powder dan CO2 di area rawan (dapur, panel listrik, loket farmasi, laboratorium, poli umum). Melakukan inspeksi APAR bulanan. Melarang keras aktivitas merokok di seluruh area klinik.</p>
+    
+    <p><b>5. Peralatan Medis</b><br>
+    - <b>Kegiatan:</b> Menyusun daftar inventaris alat medis. Pemeliharaan preventif harian (pembersihan) dan berkala (kalibrasi tahunan oleh lembaga penguji terakreditasi). Penarikan (recall) alat medis yang rusak atau tidak layak pakai.</p>
+    
+    <p><b>6. Sistem Utilitas (Listrik, Air, Gas Medis, Sanitasi)</b><br>
+    - <b>Listrik:</b> Penyediaan Genset cadangan otomatis yang dipanaskan seminggu sekali untuk menjamin operasional RME, kulkas vaksin farmasi, dan lampu darurat tindakan.<br>
+    - <b>Air Kesesuaian Kualitas:</b> Uji kualitas mikrobiologi & kimia air bersih laboratorium/tindakan ke Labkesda setahun sekali. Penyediaan toren air cadangan.<br>
+    - <b>Gas Medis Rantai Pasok:</b> Pengaturan rantai pasok oksigen tabung lengkap dengan **braket pengaman dinding (rantai/holder)** agar tabung tidak roboh atau terbentur.</p>
+    
+    <p><b>7. Sampah Domestik dan Air Limbah</b><br>
+    - <b>Kegiatan:</b> Penyediaan tong sampah domestik non-medis terpisah (organik-anorganik) berplastik hitam. Penyediaan IPAL fungsional untuk limbah cair laboratorium dan ruang tindakan, melakukan pemantauan kualitas outlet air limbah berkala ke lab eksternal terakreditasi.</p>
+
+</body>
+</html>
