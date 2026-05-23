@@ -1,0 +1,196 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>SK Hak dan Kewajiban Pasien</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">KEPUTUSAN KEPALA KLINIK KELUARGA SEHAT<br>NOMOR: 001/SK/DIR/2026</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 15px;">TENTANG<br>HAK DAN KEWAJIBAN PASIEN DI KLINIK KELUARGA SEHAT</div>
+    
+    <div class="text-center" style="font-weight: bold;">KEPALA KLINIK KELUARGA SEHAT,</div>
+    
+    <table style="border:none; margin-top:15px; width:100%;">
+        <tr style="border:none;">
+            <td style="border:none; width:15%; font-weight:bold;">Menimbang</td>
+            <td style="border:none; width:5%; text-align:center;">:</td>
+            <td style="border:none; width:80%;">
+                a. bahwa untuk menjamin pelayanan kesehatan yang bermutu, profesional, bertanggung jawab, serta mengedepankan keselamatan pasien, perlu ditetapkan pemenuhan Hak dan Kewajiban Pasien di Klinik;<br>
+                b. bahwa penetapan Hak dan Kewajiban Pasien merupakan perwujudan dari tata kelola pelayanan yang berfokus pada pasien di Klinik Pratama dan Utama;<br>
+                c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan b, perlu menetapkan Keputusan Kepala Klinik tentang Hak dan Kewajiban Pasien di Klinik Keluarga Sehat.
+            </td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">Mengingat</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">
+                1. Undang-Undang Republik Indonesia Nomor 17 Tahun 2023 tentang Kesehatan;<br>
+                2. Peraturan Menteri Kesehatan Republik Indonesia Nomor 34 Tahun 2022 tentang Akreditasi Pusat Kesehatan Masyarakat, Klinik, Laboratorium Kesehatan, Unit Transfusi Darah, Tempat Praktik Mandiri Dokter, dan Tempat Praktik Mandiri Dokter Gigi;<br>
+                3. Peraturan Menteri Kesehatan Republik Indonesia Nomor 14 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Kesehatan;<br>
+                4. Keputusan Menteri Kesehatan Republik Indonesia Nomor HK.01.07/MENKES/1983/2022 tentang Standar Akreditasi Klinik.
+            </td>
+        </tr>
+    </table>
+    
+    <div style="page-break-before: always;"></div>
+    
+    <div class="text-center" style="font-weight: bold; margin-bottom: 15px;">MEMUTUSKAN:</div>
+    
+    <table style="border:none; width:100%;">
+        <tr style="border:none;">
+            <td style="border:none; width:15%; font-weight:bold;">Menetapkan</td>
+            <td style="border:none; width:5%; text-align:center;">:</td>
+            <td style="border:none; width:80%; font-weight:bold;">KEPUTUSAN KEPALA KLINIK TENTANG HAK DAN KEWAJIBAN PASIEN DI KLINIK KELUARGA SEHAT.</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">KESATU</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">Menetapkan Hak dan Kewajiban Pasien di Klinik Keluarga Sehat sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Keputusan ini.</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">KEDUA</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">Seluruh PPA (Profesional Pemberi Asuhan) dan Staf Klinik Keluarga Sehat wajib mensosialisasikan, memahami, dan memfasilitasi pemenuhan Hak dan Kewajiban Pasien tersebut dalam pelaksanaan pelayanan sehari-hari.</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">KETIGA</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">Keputusan ini mulai berlaku sejak tanggal ditetapkan, dan apabila di kemudian hari terdapat kekeliruan akan dilakukan perbaikan sebagaimana mestinya.</td>
+        </tr>
+    </table>
+    
+    <table class="signature-table" style="margin-top: 30px;">
+        <tr>
+            <td></td>
+            <td>
+                Ditetapkan di: Jakarta<br>
+                Pada tanggal: 2 Januari 2026<br><br>
+                <b>KEPALA KLINIK KELUARGA SEHAT</b><br><br><br><br>
+                ( <b>dr. Ahmad Hidayat</b> )<br>
+                SIP. 123/456/XX/2026
+            </td>
+        </tr>
+    </table>
+
+    <div style="page-break-before: always;"></div>
+    
+    <div style="font-weight:bold;">LAMPIRAN KEPUTUSAN KEPALA KLINIK KELUARGA SEHAT</div>
+    <div>NOMOR: 001/SK/DIR/2026 TENTANG HAK DAN KEWAJIBAN PASIEN</div>
+    <hr style="border-top:1px solid #000; margin-bottom:15px;">
+    
+    <div class="section-title">A. HAK PASIEN DI KLINIK</div>
+    <p>Setiap pasien Klinik Keluarga Sehat mempunyai hak sebagai berikut:</p>
+    <ol>
+        <li>Mendapatkan informasi mengenai tata tertib dan peraturan yang berlaku di Klinik.</li>
+        <li>Mendapatkan informasi tentang hak dan kewajiban pasien.</li>
+        <li>Mendapatkan pelayanan yang manusiawi, adil, jujur, dan tanpa diskriminasi.</li>
+        <li>Mendapatkan pelayanan kesehatan bermutu sesuai dengan standar profesi dan standar prosedur operasional (SPO).</li>
+        <li>Mendapatkan pelayanan yang efektif dan efisien sehingga pasien terhindar dari kerugian fisik dan materi.</li>
+        <li>Mengajukan pengaduan atas kualitas pelayanan yang didapatkan.</li>
+        <li>Memilih dokter dan kelas perawatan sesuai dengan keinginannya dan peraturan yang berlaku di Klinik.</li>
+        <li>Meminta konsultasi tentang penyakit yang dideritanya kepada dokter lain yang mempunyai Surat Izin Praktik (SIP) baik di dalam maupun di luar Klinik (second opinion).</li>
+        <li>Mendapatkan privasi dan kerahasiaan penyakit yang diderita termasuk data-data medisnya (kerahasiaan Rekam Medis).</li>
+        <li>Mendapatkan informasi yang meliputi diagnosis dan tata cara tindakan medis, tujuan tindakan medis, alternatif tindakan, risiko dan komplikasi yang mungkin terjadi, dan prognosis terhadap tindakan yang dilakukan serta perkiraan biaya pengobatan.</li>
+        <li>Memberikan persetujuan atau menolak terhadap tindakan yang akan dilakukan oleh tenaga kesehatan (Informed Consent).</li>
+        <li>Didampingi oleh keluarganya dalam keadaan kritis.</li>
+        <li>Mendapatkan pemenuhan hak khusus bagi pasien lansia, berkebutuhan khusus, ibu hamil, dan menyusui.</li>
+    </ol>
+    
+    <div class="section-title">B. KEWAJIBAN PASIEN DI KLINIK</div>
+    <p>Setiap pasien Klinik Keluarga Sehat mempunyai kewajiban sebagai berikut:</p>
+    <ol>
+        <li>Mematuhi peraturan yang berlaku di Klinik Keluarga Sehat.</li>
+        <li>Menggunakan fasilitas Klinik secara bertanggung jawab.</li>
+        <li>Memberikan informasi yang jujur, lengkap, dan akurat tentang masalah kesehatannya kepada PPA.</li>
+        <li>Mematuhi rencana asuhan yang direkomendasikan oleh PPA di Klinik.</li>
+        <li>Menerima segala konsekuensi hukum atas keputusan penolakan tindakan medis atau rencana asuhan yang telah disarankan.</li>
+        <li>Memberikan imbalan jasa atas pelayanan yang diterima sesuai ketentuan tarif Klinik.</li>
+    </ol>
+
+</body>
+</html>
