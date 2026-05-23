@@ -1,6 +1,7 @@
 ---
 outline: deep
-title: 2. PMKP
+title: "2. PMKP"
+description: "Kumpulan standar instrumen akreditasi kelompok Peningkatan Mutu dan Keselamatan Pasien (Bab II: PMKP) lengkap dengan penjelasan standar dan template dokumen."
 
 ---
 
