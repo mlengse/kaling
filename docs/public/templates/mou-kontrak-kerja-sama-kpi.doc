@@ -1,0 +1,162 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>MoU Kontrak Kerja Sama dan KPI</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">PERJANJIAN KERJA SAMA (KONTRAK KERJA)</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 20px;">NOMOR: 050/PKS/ADM/I/2026</div>
+    
+    <p>Kami yang bertanda tangan di bawah ini:</p>
+    <ol>
+        <li><b>dr. Ahmad Hidayat</b>, selaku Kepala Klinik Keluarga Sehat, beralamat di Jl. Raya Pembangunan No. 123, Jakarta Selatan, selanjutnya disebut sebagai <b>PIHAK PERTAMA</b>.</li>
+        <li><b>Ir. Bambang Wijaya</b>, selaku Direktur Utama PT Bio Lab Nusantara, beralamat di Jl. Kesehatan Raya No. 45, Jakarta Selatan, selanjutnya disebut sebagai <b>PIHAK KEDUA</b>.</li>
+    </ol>
+    <p>Kedua belah pihak secara bersama-sama sepakat mengikatkan diri dalam Perjanjian Kerja Sama Rujukan Pemeriksaan Laboratorium Spesialis dengan ketentuan sebagai berikut:</p>
+    
+    <div class="section-title">Pasal 1: Ruang Lingkup Kerja Sama</div>
+    <p>PIHAK PERTAMA menunjuk PIHAK KEDUA sebagai laboratorium rekanan rujukan eksternal untuk melakukan pemeriksaan spesimen laboratorium yang tidak dapat dikerjakan secara mandiri di fasilitas laboratorium internal milik PIHAK PERTAMA.</p>
+    
+    <div class="section-title">Pasal 2: Standar Kompetensi & Mutu Pelayanan</div>
+    <p>PIHAK KEDUA menjamin bahwa seluruh pemeriksaan dilakukan oleh analis kesehatan berkompeten di bawah pengawasan Dokter Spesialis Patologi Klinik berizin, serta menyelenggarakan PMI dan PME berkala.</p>
+
+    <div style="page-break-before: always;"></div>
+    
+    <div class="section-title">Pasal 3: Indikator Kinerja Utama (Key Performance Indicators / KPI)</div>
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Indikator Kinerja Mutu</th>
+            <th>Target Mutu Disepakati</th>
+            <th>Frekuensi</th>
+            <th>Sanksi Ketidakpatuhan</th>
+        </tr>
+        <tr>
+            <td class="text-center">1</td>
+            <td><b>Waktu Tunggu Hasil (TAT)</b></td>
+            <td>&ge; 98% hasil dikirimkan dalam 4 jam setelah sampel diterima.</td>
+            <td class="text-center">Bulanan</td>
+            <td>Teguran Tertulis I apabila 2 bulan berturut-turut gagal.</td>
+        </tr>
+        <tr>
+            <td class="text-center">2</td>
+            <td><b>Lapor Hasil Kritis</b></td>
+            <td>100% hasil kritis dihubungi via telepon &le; 15 menit.</td>
+            <td class="text-center">Insidentil</td>
+            <td>Denda pemotongan biaya tagihan sebesar 5% per insiden.</td>
+        </tr>
+        <tr>
+            <td class="text-center">3</td>
+            <td><b>Keamanan Spesimen</b></td>
+            <td>&le; 0.5% insiden spesimen lisis/rusak karena transportasi.</td>
+            <td class="text-center">Bulanan</td>
+            <td>PIHAK KEDUA wajib mengambil sampel ulang secara gratis.</td>
+        </tr>
+    </table>
+    
+    <div class="section-title">Pasal 4: Penutup</div>
+    <p>Evaluasi berkala terhadap kinerja PIHAK KEDUA dilakukan oleh Tim PMKP Klinik Keluarga Sehat secara periodik.</p>
+    
+    <table class="signature-table" style="margin-top: 30px;">
+        <tr>
+            <td>
+                <b>PIHAK PERTAMA</b><br>
+                Kepala Klinik Keluarga Sehat<br><br><br><br>
+                ( <b>dr. Ahmad Hidayat</b> )
+            </td>
+            <td>
+                <b>PIHAK KEDUA</b><br>
+                Direktur PT Bio Lab Nusantara<br><br><br><br>
+                ( <b>Ir. Bambang Wijaya</b> )
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
