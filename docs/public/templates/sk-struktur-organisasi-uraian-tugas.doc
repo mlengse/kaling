@@ -1,0 +1,250 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>SK Struktur Organisasi dan Uraian Tugas</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">KEPUTUSAN KEPALA KLINIK KELUARGA SEHAT<br>NOMOR: 002/SK/DIR/2026</div>
+    <div class="text-center" style="font-weight: bold; margin-bottom: 15px;">TENTANG<br>STRUKTUR ORGANISASI, TATA KERJA, DAN URAIAN TUGAS KLINIK KELUARGA SEHAT</div>
+    
+    <div class="text-center" style="font-weight: bold;">KEPALA KLINIK KELUARGA SEHAT,</div>
+    
+    <table style="border:none; margin-top:10px; width:100%;">
+        <tr style="border:none;">
+            <td style="border:none; width:15%; font-weight:bold;">Menimbang</td>
+            <td style="border:none; width:5%; text-align:center;">:</td>
+            <td style="border:none; width:80%;">
+                a. bahwa agar penyelenggaraan pelayanan di Klinik Keluarga Sehat dapat berjalan secara efektif, efisien, bermutu, dan bertanggung jawab, perlu disusun pengorganisasian yang jelas;<br>
+                b. bahwa struktur organisasi dan uraian tugas merupakan instrumen penting untuk menjamin kejelasan alur tanggung jawab, wewenang, komunikasi, dan pembagian tugas kerja seluruh staf;<br>
+                c. bahwa berdasarkan pertimbangan tersebut pada huruf a dan b, perlu menetapkan Keputusan Kepala Klinik tentang Struktur Organisasi, Tata Kerja, dan Uraian Tugas Klinik Keluarga Sehat.
+            </td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">Mengingat</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">
+                1. Undang-Undang Republik Indonesia Nomor 17 Tahun 2023 tentang Kesehatan;<br>
+                2. Peraturan Menteri Kesehatan Nomor 14 Tahun 2021 tentang Standar Kegiatan Usaha Sektor Kesehatan;<br>
+                3. Keputusan Menteri Kesehatan Nomor HK.01.07/MENKES/1983/2022 tentang Standar Akreditasi Klinik.
+            </td>
+        </tr>
+    </table>
+    
+    <div style="page-break-before: always;"></div>
+    
+    <div class="text-center" style="font-weight: bold; margin-bottom: 15px;">MEMUTUSKAN:</div>
+    
+    <table style="border:none; width:100%;">
+        <tr style="border:none;">
+            <td style="border:none; width:15%; font-weight:bold;">Menetapkan</td>
+            <td style="border:none; width:5%; text-align:center;">:</td>
+            <td style="border:none; width:80%; font-weight:bold;">KEPUTUSAN KEPALA KLINIK TENTANG STRUKTUR ORGANISASI, TATA KERJA, DAN URAIAN TUGAS KLINIK KELUARGA SEHAT.</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">KESATU</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">Menetapkan Visi, Misi, dan Tujuan Klinik Keluarga Sehat sebagaimana tercantum dalam Lampiran I Keputusan ini.</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">KEDUA</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">Menetapkan Bagan Struktur Organisasi Klinik Keluarga Sehat sebagaimana tercantum dalam Lampiran II Keputusan ini.</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">KETIGA</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">Menetapkan Uraian Tugas, Tanggung Jawab, dan Wewenang masing-masing jabatan di lingkungan Klinik Keluarga Sehat sebagaimana tercantum dalam Lampiran III Keputusan ini.</td>
+        </tr>
+        <tr style="border:none;">
+            <td style="border:none; font-weight:bold; padding-top:10px;">KEEMPAT</td>
+            <td style="border:none; text-align:center; padding-top:10px;">:</td>
+            <td style="border:none; padding-top:10px;">Keputusan ini mulai berlaku sejak tanggal ditetapkan, dan apabila di kemudian hari terdapat kekeliruan akan dilakukan perbaikan sebagaimana mestinya.</td>
+        </tr>
+    </table>
+    
+    <table class="signature-table" style="margin-top: 40px;">
+        <tr>
+            <td></td>
+            <td>
+                Ditetapkan di: Jakarta<br>
+                Pada tanggal: 2 Januari 2026<br><br>
+                <b>KEPALA KLINIK KELUARGA SEHAT</b><br><br><br><br>
+                ( <b>dr. Ahmad Hidayat</b> )
+            </td>
+        </tr>
+    </table>
+
+    <div style="page-break-before: always;"></div>
+    
+    <div style="font-weight:bold; text-align:center; text-transform:uppercase;">LAMPIRAN I: VISI, MISI, DAN TUJUAN KLINIK KELUARGA SEHAT</div>
+    <hr style="border-top:1px solid #000; margin-bottom:15px;">
+    
+    <p><b>A. VISI</b><br>
+    Menjadi Klinik Pratama dan Utama terpercaya dalam menyelenggarakan pelayanan kesehatan yang bermutu, profesional, dan berorientasi pada keselamatan pasien di wilayah Jakarta Selatan pada tahun 2030.</p>
+    
+    <p><b>B. MISI</b><br>
+    1. Menyelenggarakan pelayanan kesehatan perorangan yang komprehensif, bermutu, dan terjangkau.<br>
+    2. Menerapkan tata kelola klinis dan manajemen fasilitas yang aman, suportif, dan ramah lingkungan.<br>
+    3. Meningkatkan kompetensi berkelanjutan bagi seluruh Profesional Pemberi Asuhan (PPA) dan staf.<br>
+    4. Mengaktifkan peran serta pasien dan keluarga dalam keselamatan asuhan pasien.</p>
+    
+    <p><b>C. TUJUAN</b><br>
+    1. Mewujudkan derajat kesehatan perorangan yang optimal bagi pasien/pengguna layanan.<br>
+    2. Menjamin keselamatan pasien, staf, dan pengunjung melalui manajemen mutu PPI dan SKP secara berkesinambungan.<br>
+    3. Membangun lingkungan kerja klinik yang harmonis, profesional, dan berorientasi kepuasan pelanggan.</p>
+
+    <div style="page-break-before: always;"></div>
+    
+    <div style="font-weight:bold; text-align:center; text-transform:uppercase;">LAMPIRAN II: BAGAN STRUKTUR ORGANISASI KLINIK KELUARGA SEHAT</div>
+    <hr style="border-top:1px solid #000; margin-bottom:15px;">
+    
+    <p class="text-center" style="font-weight:bold; margin-bottom:15px;">BAGAN ALUR PENGORGANISASIAN</p>
+    
+    <table class="text-center" style="width:100%; border:1px solid #000;">
+        <tr>
+            <td colspan="4" style="background-color:#eaeaea; font-weight:bold; font-size:11pt; padding:10px;">PEMILIK KLINIK<br>(PT Sumber Sehat Keluarga)</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="padding:10px; font-weight:bold; background-color:#f9f9f9; font-size:10pt;">KEPALA / PENANGGUNG JAWAB KLINIK<br>(dr. Ahmad Hidayat)</td>
+        </tr>
+        <tr>
+            <td style="width:25%; font-weight:bold; background-color:#f0f0f0;">Koordinator Mutu, Keselamatan & PPI<br>(PPA Utama)</td>
+            <td style="width:25%; font-weight:bold; background-color:#f0f0f0;">Penanggung Jawab Medis & Keperawatan<br>(PPA Medis)</td>
+            <td style="width:25%; font-weight:bold; background-color:#f0f0f0;">Penanggung Jawab Farmasi & Penunjang<br>(Apoteker/Analis)</td>
+            <td style="width:25%; font-weight:bold; background-color:#f0f0f0;">Penanggung Jawab Administrasi & MFK<br>(Non-Nakes/Staf Adm)</td>
+        </tr>
+        <tr>
+            <td>
+                - Tim PMKP<br>
+                - SKP & IKP<br>
+                - Tim PPI
+            </td>
+            <td>
+                - Poli Umum<br>
+                - Poli Spesialis<br>
+                - Ruang Tindakan/UGD<br>
+                - Poli Gigi
+            </td>
+            <td>
+                - Depo Farmasi<br>
+                - Laboratorium<br>
+                - Unit Gizi/Dietetik<br>
+                - Radiologi (jika ada)
+            </td>
+            <td>
+                - Admisi & RM<br>
+                - Keuangan & SDM<br>
+                - Tim Keamanan & APAR<br>
+                - Pengelolaan B3 & Limbah
+            </td>
+        </tr>
+    </table>
+
+    <div style="page-break-before: always;"></div>
+    
+    <div style="font-weight:bold; text-align:center; text-transform:uppercase;">LAMPIRAN III: URAIAN TUGAS, TANGGUNG JAWAB, DAN WEWENANG JABATAN</div>
+    <hr style="border-top:1px solid #000; margin-bottom:15px;">
+    
+    <p><b>1. KEPALA / PENANGGUNG JAWAB KLINIK (Tenaga Medis)</b><br>
+    - <b>Tugas Pokok:</b> Memimpin, mengawasi, dan mengoordinasikan seluruh operasional, pelayanan klinis, tata usaha, serta mutu akreditasi klinik.<br>
+    - <b>Tanggung Jawab:</b> Menjamin tersedianya perizinan usaha aktif, kepatuhan hukum, pemenuhan standar nasional, ketersediaan SDM, sarana prasarana yang aman, serta memberikan laporan tahunan kepada pemilik.<br>
+    - <b>Wewenang:</b> Menetapkan kebijakan internal (SK/SPO), menandatangani perjanjian kerja sama, memutuskan sanksi/penghargaan pegawai, dan mengesahkan rencana kerja anggaran.</p>
+    
+    <p><b>2. KOORDINATOR MUTU, KESELAMATAN PASIEN, DAN PPI</b><br>
+    - <b>Tugas Pokok:</b> Mengoordinasikan penyusunan program mutu (PMKP), pemantauan indikator mutu nasional (INM), manajemen risiko klinik (register risiko), pelaporan keselamatan pasien, dan kepatuhan pencegahan infeksi (PPI).<br>
+    - <b>Tanggung Jawab:</b> Terlaksananya program pemantauan cuci tangan staf, kebersihan lingkungan, sterilisasi alat medis, penanganan tumpahan cairan tubuh, keselamatan bedah minor, pencegahan risiko jatuh, serta pelaporan IKP/KTD ke Kemenkes.<br>
+    - <b>Wewenang:</b> Mengajukan rekomendasi perbaikan/tindak lanjut hasil audit mutu kepada Kepala Klinik, meminta laporan insiden keselamatan dari seluruh unit.</p>
+    
+    <p><b>3. PENANGGUNG JAWAB FARMASI (Apoteker)</b><br>
+    - <b>Tugas Pokok:</b> Mengelola perencanaan, pengadaan lewat jalur resmi, penyimpanan obat, penanganan obat <i>High Alert</i>/LASA, narkotika/psikotropika, obat emergensi, peresepan, pengkajian resep, PIO, rekonsiliasi obat, serta pelaporan MESO dan <i>medication error</i>.<br>
+    - <b>Tanggung Jawab:</b> Menjamin ketersediaan obat bermutu, kesesuaian formularium klinik, penanganan aman obat kadaluarsa, keakuratan pelabelan obat, serta keselamatan penggunaan obat.<br>
+    - <b>Wewenang:</b> Menolak resep dokter apabila terdapat ketidaksesuaian klinis yang fatal setelah dikonfirmasi, mengawasi akses depo farmasi.</p>
+
+</body>
+</html>
