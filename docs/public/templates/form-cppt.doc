@@ -1,0 +1,200 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Form CPPT</title>
+<style>
+    @page {
+        size: 21cm 29.7cm;
+        margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+        mso-page-orientation: portrait;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        font-size: 10pt;
+        line-height: 1.4;
+        color: #000000;
+    }
+    .kop-surat {
+        text-align: center;
+        border-bottom: 3px double #000000;
+        padding-bottom: 8px;
+        margin-bottom: 15px;
+    }
+    .kop-title {
+        font-size: 13pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .kop-subtitle {
+        font-size: 9pt;
+        margin: 3px 0 0 0;
+        font-style: italic;
+    }
+    .doc-title {
+        text-align: center;
+        font-size: 11pt;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+        text-decoration: underline;
+    }
+    .section-title {
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 4px;
+        font-size: 10pt;
+        text-decoration: underline;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    table, th, td {
+        border: 1px solid #000000;
+    }
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+        text-align: center;
+        padding: 5px;
+        font-size: 9pt;
+    }
+    td {
+        padding: 5px;
+        vertical-align: top;
+        font-size: 9pt;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .signature-area {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .signature-table {
+        border: none !important;
+    }
+    .signature-table td {
+        border: none !important;
+        width: 50%;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="kop-surat">
+        <p class="kop-title">KLINIK PRATAMA / UTAMA KELUARGA SEHAT</p>
+        <p class="kop-subtitle">Jl. Raya Pembangunan No. 123, Jakarta Selatan | Telp: (021) 555-1234 | Email: info@keluargasehat.com</p>
+    </div>
+    
+    <div class="doc-title">CATATAN PERKEMBANGAN PASIEN TERINTEGRASI (CPPT)</div>
+    
+    <table style="width:100%; margin-bottom: 10px;">
+        <tr>
+            <td style="width: 50%; line-height: 1.5;">
+                <b>Nama Pasien:</b> ....................................................<br>
+                <b>No. Rekam Medis:</b> .............................................
+            </td>
+            <td style="width: 50%; line-height: 1.5;">
+                <b>Tgl Lahir / Umur:</b> ................. / ........ Thn<br>
+                <b>Jenis Kelamin:</b> L/P
+            </td>
+        </tr>
+    </table>
+    
+    <p style="font-size: 8pt; font-style: italic; margin-top:0;">*Catatan perkembangan pasien ditulis menggunakan format SOAP (Subyektif, Obyektif, Asesmen, Plan) oleh seluruh PPA (Dokter, Perawat, Bidan, Apoteker, Ahli Gizi) secara terintegrasi.</p>
+    
+    <table>
+        <tr>
+            <th style="width: 12%;">Tanggal / Jam</th>
+            <th style="width: 15%;">PPA (Profesi)</th>
+            <th style="width: 45%;">Hasil Pengkajian Pasien & Perkembangan (SOAP)</th>
+            <th style="width: 18%;">Instruksi PPA Termasuk Pasca Bedah/Terapi</th>
+            <th style="width: 10%;">Paraf & Nama</th>
+        </tr>
+        <tr style="height: 120px;">
+            <td class="text-center">
+                ..../..../2026<br>
+                Jam: ........ WIB
+            </td>
+            <td>
+                <b>Perawat / Bidan</b>
+            </td>
+            <td>
+                <b>S:</b> Pasien mengeluh nyeri luka di lengan kanan pasca terjatuh 2 jam yang lalu.<br>
+                <b>O:</b> Tensi: 120/80 mmHg, Nadi: 84 x/mnt, Temp: 36.5C. Tampak luka robek sepanjang 4 cm di lengan kanan, perdarahan aktif minimal.<br>
+                <b>A:</b> Nyeri akut b.d agen pencedera fisik (Vulnus Laceratum).<br>
+                <b>P:</b><br>
+                - Bersihkan luka dengan NaCl 0.9%<br>
+                - Kolaborasi dokter untuk penjahitan luka (hecting).
+            </td>
+            <td>
+                - Lakukan pembersihan luka.<br>
+                - Siapkan hecting set dan anestesi lokal (Lidocain 2%).
+            </td>
+            <td class="text-center">
+                <br><br><br>
+                ( <b>Ns. Ani, S.Kep</b> )
+            </td>
+        </tr>
+        <tr style="height: 150px;">
+            <td class="text-center">
+                ..../..../2026<br>
+                Jam: ........ WIB
+            </td>
+            <td>
+                <b>Dokter Umum / Spesialis</b>
+            </td>
+            <td>
+                <b>S:</b> Nyeri lengan kanan terluka.<br>
+                <b>O:</b> Luka robek 4x1 cm, batas tegas, tepi tidak rata, mengenai subkutis. TTV dbn.<br>
+                <b>A:</b> Vulnus Laceratum regio antebrachii dextra.<br>
+                <b>P:</b><br>
+                - Lakukan anastesi lokal Lidocain 2% (2cc).<br>
+                - Lakukan hecting (jahit situasi: 4 simpul catgut/silk).<br>
+                - Berikan resep obat pulang.<br>
+                - Edukasi ganti perban 2 hari lagi.
+            </td>
+            <td>
+                - Hecting luka 4 jahitan.<br>
+                - Terapi oral:<br>
+                &nbsp;&nbsp;* Amoxicillin 3x500mg (10 tab)<br>
+                &nbsp;&nbsp;* Paracetamol 3x500mg prn nyeri<br>
+                - Kontrol poli 3 hari lagi.
+            </td>
+            <td class="text-center">
+                <br><br><br><br>
+                ( <b>dr. Ahmad H.</b> )<br>
+                <span style="font-size:7pt;"><i>Verifikasi DPJP</i></span>
+            </td>
+        </tr>
+        <tr style="height: 100px;">
+            <td class="text-center">
+                ..../..../2026<br>
+                Jam: ........ WIB
+            </td>
+            <td>
+                <b>Apoteker (Farmasi)</b>
+            </td>
+            <td>
+                <b>S:</b> - <br>
+                <b>O:</b> Pasien menerima obat Amoxicillin 500mg (10 tab) dan Paracetamol 500mg (10 tab).<br>
+                <b>A:</b> Terapi obat pulang sesuai instruksi medis Dokter, tidak ada riwayat alergi.<br>
+                <b>P:</b> Lakukan PIO (Pemberian Informasi Obat): Amoxicillin dihabiskan sebagai antibiotik, Paracetamol diminum hanya bila nyeri.
+            </td>
+            <td>
+                - Jelaskan aturan minum obat.<br>
+                - Edukasi efek samping mengantuk / gangguan lambung ringan.
+            </td>
+            <td class="text-center">
+                <br><br><br>
+                ( <b>Apt. Budi, S.Farm</b> )
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
